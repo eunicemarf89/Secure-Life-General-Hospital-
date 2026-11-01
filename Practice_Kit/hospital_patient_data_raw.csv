@@ -1,0 +1,1001 @@
+Patient ID,Patient Name,Age,Gender,Admission Date,Discharge Date,Department,Diagnosis,Total Bill Amount,Insurance Coverage %,Payment Status
+PAT-3001,Thomas Martin,57,Male,2024-07-15,2024-07-23,Cardiology,Atrial Fibrillation,15359.41,60,Paid
+PAT-3002,Betty Thompson,62,Female,2025-03-13,2025-03-23,Cardiology,Angina,21896.6,80,Pending
+PAT-3003,Lisa Rodriguez,82,Female,2024-04-05,2024-04-08,Emergency,Abdominal Pain,6404.86,0,Partially Paid
+PAT-3004,Donna Jones,29,Female,2024-10-23,2024-10-24,Emergency,Concussion,1001.68,90,Pending
+PAT-3005,Michael Walker,65,Male,2024-11-25,2024-12-01,General,Flu Complications,4022.42,80,Pending
+PAT-3006,Kenneth Lewis,53,Male,2024-07-21,2024-07-28,General,Diabetes Management,6621.96,50,Partially Paid
+PAT-3007,Linda Smith,46,Female,2024-02-09,2024-02-13,Cardiology,Arrhythmia,7676.36,70,Partially Paid
+PAT-3008,Susan Garcia,21,Female,2024-02-24,2024-02-27,Emergency,Severe Allergic Reaction,7381.69,80,Pending
+PAT-3009,James Jones,62,Male,2024-11-11,2024-11-17,General,Anemia,5206.4,80,Pending
+PAT-3010,Christopher Johnson,59,Male,2025-08-05,2025-08-06,Emergency,Severe Allergic Reaction,2498.98,50,Pending
+PAT-3011,Daniel Thomas,7,Male,2025-11-06,2025-11-08,Pediatrics,RSV,2096.73,70,Paid
+PAT-3012,Sandra Smith,85,Female,2025-03-03,2025-03-08,General,Dehydration,4619.61,70,Pending
+PAT-3013,Michael Smith,40,Male,2024-07-27,2024-07-29,Emergency,Abdominal Pain,3367.87,90,Paid
+PAT-3014,Thomas Taylor,24,Male,2024-08-20,2024-08-22,General,Diabetes Management,2287.25,60,Paid
+PAT-3015,Jennifer Williams,67,Female,2025-12-12,2025-12-21,Orthopedics,Rotator Cuff Injury,12489.51,100,Paid
+PAT-3016,Nancy Lee,70,Female,2025-02-07,2025-02-13,General,Diabetes Management,4262.21,100,Paid
+PAT-3017,Kevin Miller,38,Male,2024-08-24,2024-08-28,General,Diabetes Management,5523.81,70,Pending
+PAT-3018,Elizabeth Moore,81,Female,2024-05-27,2024-05-29,General,Flu Complications,1097.76,80,Paid
+PAT-3019,Carol Rodriguez,35,Female,2024-12-23,2024-12-29,Neurology,Neuropathy,14272.73,80,Pending
+PAT-3020,Karen Hernandez,42,Female,2025-05-27,2025-06-09,Orthopedics,Knee Replacement,18429.31,100,Paid
+PAT-3021,Michael Miller,36,Male,2025-10-22,2025-10-28,Orthopedics,ACL Tear,11481.03,80,Pending
+PAT-3022,Karen Martinez,67,Female,2025-02-11,2025-02-14,Cardiology,Atrial Fibrillation,6324.27,80,Paid
+PAT-3023,William Wilson,23,Male,2024-11-17,2024-11-18,Emergency,Burns,1888.07,80,Partially Paid
+PAT-3024,Ashley Young,66,Female,2024-03-19,2024-03-27,Cardiology,Atrial Fibrillation,21654.18,70,Paid
+PAT-3025,Betty Wilson,57,Female,2025-02-18,2025-02-21,General,Gastritis,2641.14,100,Paid
+PAT-3026,Steven Garcia,44,Male,2024-06-20,2024-06-24,General,Dehydration,5522.03,0,Partially Paid
+PAT-3027,Paul Taylor,58,Male,2024-06-03,2024-06-08,Cardiology,Arrhythmia,8789.32,90,Pending
+PAT-3028,Daniel Lopez,62,Male,2025-01-25,2025-01-30,Neurology,Multiple Sclerosis,7969.42,100,Paid
+PAT-3029,Joseph Brown,52,Male,2025-04-06,2025-04-12,Orthopedics,Carpal Tunnel,7929.71,90,Paid
+PAT-3030,Linda Wilson,35,Female,2024-10-01,2024-10-04,Emergency,Concussion,4772.89,90,Paid
+PAT-3031,Emily Moore,79,Female,2024-06-23,2024-06-26,Cardiology,Heart Failure,6826.49,80,Paid
+PAT-3032,Sarah Wilson,69,Female,2024-03-20,2024-03-22,General,Flu Complications,2177.78,90,Partially Paid
+PAT-3033,Nancy Clark,21,Female,2025-05-21,2025-05-23,Emergency,Concussion,3527.3,0,Partially Paid
+PAT-3034,Kevin Clark,49,Male,2025-10-15,2025-10-16,Emergency,Concussion,1184.01,100,Paid
+PAT-3035,Joseph Williams,61,Male,2025-03-21,2025-03-26,Cardiology,Hypertension,10760.65,100,Paid
+PAT-3036,Jennifer Jackson,32,Female,2025-08-09,2025-08-14,General,Pneumonia,7422.15,60,Pending
+PAT-3037,Elizabeth Rodriguez,7,Female,2025-06-03,2025-06-08,Pediatrics,Asthma,3623.14,50,Paid
+PAT-3038,Mark Miller,7,Male,2024-12-10,2024-12-11,Pediatrics,Tonsillitis,946.04,90,Pending
+PAT-3039,Kenneth Martinez,4,Male,2025-10-22,2025-10-25,Pediatrics,Ear Infection,3976.01,60,Partially Paid
+PAT-3040,Karen Young,81,Female,2024-12-17,2024-12-26,Cardiology,Atrial Fibrillation,26928.32,70,Partially Paid
+PAT-3041,Dorothy Ramirez,81,Female,2025-02-13,2025-02-18,Cardiology,Heart Failure,7203.24,70,Paid
+PAT-3042,Donna Williams,14,Female,2025-11-18,2025-11-22,Pediatrics,Allergic Reaction,5685.06,80,Paid
+PAT-3043,Nancy Harris,73,Female,2025-09-05,2025-09-08,Orthopedics,Hip Fracture,4949.06,50,Paid
+PAT-3044,William Wilson,50,Male,2024-12-12,2024-12-16,Orthopedics,ACL Tear,5586.28,90,Paid
+PAT-3045,Michelle Taylor,73,Female,2024-07-17,2024-07-18,General,Dehydration,766.8,60,Pending
+PAT-3046,Elizabeth Rodriguez,60,Female,2024-05-13,2024-05-26,Orthopedics,Knee Replacement,28480.18,70,Paid
+PAT-3047,Elizabeth Harris,37,Female,2025-01-06,2025-01-08,General,Pneumonia,1098.91,70,Pending
+PAT-3048,David Wilson,54,Male,2025-11-05,2025-11-15,Orthopedics,Spinal Disc Herniation,22377.12,80,Paid
+PAT-3049,Kevin Wilson,1,Male,2024-09-10,2024-09-14,Pediatrics,Tonsillitis,3895.9,0,Pending
+PAT-3050,James Wilson,51,Male,2025-09-20,2025-09-29,Orthopedics,Spinal Disc Herniation,10684.0,60,Paid
+PAT-3051,Jennifer Perez,23,Female,2024-07-06,2024-07-10,General,Diabetes Management,3643.5,70,Partially Paid
+PAT-3052,Mary Johnson,67,Female,2024-10-10,2024-10-13,Emergency,Abdominal Pain,5702.96,80,Paid
+PAT-3053,Joseph Thomas,63,Male,2025-09-05,2025-09-12,Cardiology,Angina,18049.65,80,Paid
+PAT-3054,Anthony Thomas,59,Male,2025-04-04,2025-04-10,Cardiology,Atrial Fibrillation,16488.4,80,Paid
+PAT-3055,Donna Clark,64,Female,2025-01-05,2025-01-13,Neurology,Parkinson's Disease,18217.14,50,Partially Paid
+PAT-3056,Andrew Jones,60,Male,2024-11-12,2024-11-23,Orthopedics,Knee Replacement,16175.09,80,Pending
+PAT-3057,Jennifer Martinez,77,Female,2024-03-21,2024-03-29,Cardiology,Atrial Fibrillation,12858.55,80,Pending
+PAT-3058,Mark Lewis,29,Male,2025-05-05,2025-05-19,Orthopedics,Knee Replacement,14617.11,0,Partially Paid
+PAT-3059,Mark Miller,77,Male,2024-02-09,2024-02-16,Cardiology,Coronary Artery Disease,8848.16,90,Paid
+PAT-3060,Steven Garcia,38,Male,2024-05-23,2024-05-25,Emergency,Burns,4529.29,60,Partially Paid
+PAT-3061,Jessica Thomas,43,Female,2024-11-12,2024-11-14,General,Dehydration,1655.08,80,Paid
+PAT-3062,Joshua Lee,16,Male,2025-04-29,2025-04-30,Pediatrics,Tonsillitis,1165.37,80,Pending
+PAT-3063,Linda Lopez,47,Female,2025-04-24,2025-04-28,Cardiology,Coronary Artery Disease,5020.34,80,Paid
+PAT-3064,Jennifer Jackson,5,Female,2024-04-23,2024-04-26,Pediatrics,Ear Infection,4344.45,100,Paid
+PAT-3065,Betty Garcia,40,Female,2025-10-12,2025-10-21,Cardiology,Coronary Artery Disease,11900.88,80,Pending
+PAT-3066,Kenneth Wilson,67,Male,2025-01-24,2025-02-02,Neurology,Multiple Sclerosis,12380.25,80,Paid
+PAT-3067,Daniel Anderson,63,Male,2025-11-25,2025-11-29,Cardiology,Hypertension,9509.74,90,Paid
+PAT-3068,Jessica Young,60,Female,2025-03-15,2025-03-19,Neurology,Parkinson's Disease,6803.88,80,Paid
+PAT-3069,Michelle Lee,67,Female,2024-05-24,2024-06-04,Orthopedics,Knee Replacement,23530.58,80,Partially Paid
+PAT-3070,Joseph Johnson,83,Male,2025-04-05,2025-04-06,Emergency,Severe Allergic Reaction,1108.28,50,Paid
+PAT-3071,Paul White,69,Male,2025-12-22,2025-12-29,Cardiology,Arrhythmia,15858.97,80,Paid
+PAT-3072,Andrew Young,66,Male,2025-01-19,2025-02-02,Orthopedics,Carpal Tunnel,24022.14,80,Partially Paid
+PAT-3073,Michelle Wilson,29,Female,2024-10-21,2024-11-02,Orthopedics,Carpal Tunnel,13601.98,80,Pending
+PAT-3074,Kenneth White,48,Male,2024-04-23,2024-05-02,Neurology,Stroke,11054.91,80,Paid
+PAT-3075,Matthew Clark,71,Male,2025-11-25,2025-11-28,Emergency,Abdominal Pain,4292.29,70,Paid
+PAT-3076,Elizabeth Lewis,58,Female,2025-11-08,2025-11-17,Cardiology,Coronary Artery Disease,15148.04,100,Paid
+PAT-3077,Mary Thomas,31,Female,2025-04-01,2025-04-08,Neurology,Parkinson's Disease,12486.34,60,Pending
+PAT-3078,Elizabeth Rodriguez,6,Female,2025-11-25,2025-11-30,Pediatrics,Ear Infection,6755.47,90,Paid
+PAT-3079,Michelle Perez,54,Female,2025-09-03,2025-09-05,Emergency,Fracture,2919.13,100,Paid
+PAT-3080,Betty Walker,40,Female,2025-07-05,2025-07-19,Orthopedics,Knee Replacement,30241.53,100,Paid
+PAT-3081,Sarah Jackson,70,Female,2024-07-10,2024-07-17,Cardiology,Hypertension,12489.15,0,Pending
+PAT-3082,Jessica Thompson,34,Female,2024-02-01,2024-02-07,Orthopedics,Hip Fracture,12813.71,70,Paid
+PAT-3083,Elizabeth Perez,62,Female,2024-04-26,2024-05-01,Orthopedics,Hip Fracture,13205.04,70,Paid
+PAT-3084,Paul Harris,83,Male,2025-12-22,2025-12-29,General,Flu Complications,3620.28,80,Paid
+PAT-3085,Jessica White,76,Female,2024-08-20,2024-08-27,General,Anemia,7803.54,70,Pending
+PAT-3086,Betty Moore,50,Female,2025-01-02,2025-01-10,Neurology,Neuropathy,12412.35,90,Partially Paid
+PAT-3087,Ashley Smith,39,Female,2025-11-28,2025-11-30,Emergency,Acute Appendicitis,2598.06,80,Paid
+PAT-3088,Mark Moore,68,Male,2025-03-04,2025-03-11,General,Pneumonia,9165.89,70,Paid
+PAT-3089,Carol Hernandez,55,Female,2025-08-05,2025-08-07,Emergency,Abdominal Pain,2783.91,70,Paid
+PAT-3090,Barbara Taylor,71,Female,2025-01-22,2025-01-31,Cardiology,Angina,23939.75,60,Paid
+PAT-3091,Lisa Brown,55,Female,2025-05-01,2025-05-09,Neurology,Parkinson's Disease,19244.54,80,Paid
+PAT-3092,Barbara Walker,60,Female,2024-07-17,2024-07-26,Cardiology,Atrial Fibrillation,17194.91,90,Paid
+PAT-3093,Thomas Hernandez,62,Male,2024-08-26,2024-08-29,General,UTI,3707.77,80,Paid
+PAT-3094,Sarah Young,62,Female,2025-08-26,2025-09-01,Neurology,Epilepsy,11445.42,80,Pending
+PAT-3095,David Anderson,52,Male,2025-04-28,2025-04-30,General,Flu Complications,1587.61,90,Pending
+PAT-3096,Mark Thompson,32,Male,2024-10-24,2024-10-26,Emergency,Burns,4946.29,80,Paid
+PAT-3097,Daniel Garcia,15,Male,2024-10-29,2024-11-01,Pediatrics,Ear Infection,3757.58,80,Paid
+PAT-3098,Michael Ramirez,61,Male,2025-04-18,2025-04-23,Cardiology,Hypertension,10173.43,70,Partially Paid
+PAT-3099,Linda Robinson,1,Female,2024-12-20,2024-12-25,Pediatrics,Ear Infection,4626.03,50,Pending
+PAT-3100,Jennifer Martinez,28,Female,2024-11-16,2024-11-19,General,Gastritis,3159.6,80,Paid
+PAT-3101,Matthew Williams,78,Male,2024-02-04,2024-02-07,Emergency,Severe Allergic Reaction,6630.7,90,Paid
+PAT-3102,Paul Robinson,51,Male,2024-04-10,2024-04-19,Neurology,Neuropathy,17220.65,70,Partially Paid
+PAT-3103,David Walker,70,Male,2024-02-25,2024-03-01,Orthopedics,Carpal Tunnel,13557.6,90,Paid
+PAT-3104,Daniel White,51,Male,2025-04-11,2025-04-13,General,UTI,1460.86,70,Partially Paid
+PAT-3105,Daniel Walker,57,Male,2025-01-12,2025-01-15,Neurology,Epilepsy,5152.58,0,Paid
+PAT-3106,Lisa Anderson,37,Female,2025-07-27,2025-07-28,Emergency,Concussion,954.61,90,Paid
+PAT-3107,Steven Clark,59,Male,2025-02-15,2025-02-21,Cardiology,Hypertension,11951.45,100,Paid
+PAT-3108,Daniel Anderson,2,Male,2024-04-09,2024-04-11,Pediatrics,Ear Infection,3169.16,60,Pending
+PAT-3109,William Brown,55,Male,2025-05-07,2025-05-08,General,Gastritis,1178.75,70,Paid
+PAT-3110,Christopher Davis,69,Male,2024-04-20,2024-04-23,Emergency,Abdominal Pain,4895.09,50,Partially Paid
+PAT-3111,Joseph Williams,2,Male,2024-10-15,2024-10-16,Pediatrics,Asthma,819.61,80,Paid
+PAT-3112,Sandra Jackson,40,Female,2024-12-04,2024-12-06,Emergency,Abdominal Pain,2899.4,70,Pending
+PAT-3113,Sandra Moore,4,Female,2024-01-05,2024-01-07,Pediatrics,Ear Infection,2638.05,90,Pending
+PAT-3114,Karen Anderson,19,Female,2024-05-08,2024-05-11,Emergency,Concussion,6176.26,70,Pending
+PAT-3115,Paul Lopez,29,Male,2025-09-12,2025-09-15,Orthopedics,Spinal Disc Herniation,4035.23,80,Paid
+PAT-3116,Lisa Johnson,36,Female,2024-03-26,2024-03-28,General,Gastritis,1068.76,80,Paid
+PAT-3117,Kenneth Garcia,45,Male,2024-06-17,2024-06-20,Emergency,Acute Appendicitis,2606.79,70,Pending
+PAT-3118,Emily Williams,2,Female,2025-06-13,2025-06-15,Pediatrics,RSV,2856.34,100,Pending
+PAT-3119,Sandra Young,48,Female,2024-07-05,2024-07-13,Orthopedics,Carpal Tunnel,13136.54,100,Pending
+PAT-3120,Robert Moore,32,Male,2025-09-09,2025-09-15,Orthopedics,ACL Tear,10441.88,70,Pending
+PAT-3121,Kenneth Perez,39,Male,2024-08-25,2024-09-01,General,Flu Complications,8804.17,70,Pending
+PAT-3122,Kevin Lewis,14,Male,2024-05-21,2024-05-26,Pediatrics,Allergic Reaction,8692.21,80,Pending
+PAT-3123,Christopher Lewis,77,Male,2024-11-05,2024-11-10,Cardiology,Atrial Fibrillation,8942.35,0,Paid
+PAT-3124,Kenneth Williams,59,Male,2025-05-09,2025-05-19,Neurology,Migraine,17584.49,100,Partially Paid
+PAT-3125,Betty Walker,84,Female,2024-04-17,2024-04-18,Emergency,Fracture,1921.25,50,Partially Paid
+PAT-3126,Linda Walker,41,Female,2024-08-11,2024-08-14,Neurology,Migraine,6966.69,70,Pending
+PAT-3127,Sarah Davis,4,Female,2024-04-08,2024-04-12,Pediatrics,Allergic Reaction,5715.35,70,Paid
+PAT-3128,Jennifer Clark,48,Female,2025-10-06,2025-10-09,Emergency,Fracture,4210.91,90,Paid
+PAT-3129,Sarah Hernandez,62,Female,2024-03-02,2024-03-09,Cardiology,Angina,11082.93,50,Pending
+PAT-3130,Elizabeth Garcia,31,Female,2024-11-29,2024-12-04,General,Dehydration,6234.49,100,Pending
+PAT-3131,Karen Moore,65,Female,2025-05-16,2025-05-26,Neurology,Migraine,17644.05,60,Paid
+PAT-3132,James Davis,80,Male,2024-10-22,2024-10-31,Neurology,Neuropathy,11838.97,70,Partially Paid
+PAT-3133,Joshua Martin,9,Male,2024-10-24,2024-10-27,Pediatrics,Ear Infection,2139.13,90,Partially Paid
+PAT-3134,Susan White,48,Female,2024-05-24,2024-05-31,Cardiology,Arrhythmia,10657.18,100,Paid
+PAT-3135,Jessica Harris,83,Female,2025-08-30,2025-09-05,Cardiology,Coronary Artery Disease,17707.36,90,Paid
+PAT-3136,James Brown,57,Male,2024-11-23,2024-12-06,Orthopedics,Carpal Tunnel,31874.83,90,Pending
+PAT-3137,Jessica Lopez,50,Female,2024-06-15,2024-06-21,General,Dehydration,5681.44,70,Paid
+PAT-3138,Mary Robinson,58,Female,2025-07-03,2025-07-10,Cardiology,Atrial Fibrillation,17588.68,90,Paid
+PAT-3139,Matthew Davis,58,Male,2025-04-02,2025-04-04,General,UTI,1113.62,80,Paid
+PAT-3140,Christopher Wilson,60,Male,2024-06-22,2024-06-27,General,UTI,3222.62,90,Pending
+PAT-3141,Karen Williams,53,Female,2024-07-08,2024-07-13,General,Flu Complications,4276.67,50,Paid
+PAT-3142,Jennifer Smith,37,Female,2025-04-07,2025-04-11,General,Dehydration,2378.61,70,Paid
+PAT-3143,Matthew Garcia,52,Male,2024-01-04,2024-01-05,Emergency,Chest Pain,1802.47,70,Partially Paid
+PAT-3144,Michelle Thomas,64,Female,2024-05-02,2024-05-11,Cardiology,Coronary Artery Disease,26472.01,60,Partially Paid
+PAT-3145,Robert Miller,31,Male,2025-07-23,2025-08-01,Neurology,Migraine,15209.42,80,Pending
+PAT-3146,Lisa Rodriguez,54,Female,2025-07-11,2025-07-12,General,Dehydration,683.93,0,Pending
+PAT-3147,Barbara Wilson,77,Female,2024-03-31,2024-04-04,General,Gastritis,2163.62,60,Paid
+PAT-3148,Barbara Jones,28,Female,2025-09-04,2025-09-07,Emergency,Burns,7033.75,90,Paid
+PAT-3149,Lisa Williams,57,Female,2024-12-21,2024-12-26,Cardiology,Heart Failure,9216.99,100,Paid
+PAT-3150,Jennifer Young,32,Female,2025-05-01,2025-05-03,General,Dehydration,1561.35,90,Partially Paid
+PAT-3151,Karen Smith,41,Female,2025-07-11,2025-07-20,Cardiology,Atrial Fibrillation,24856.18,100,Paid
+PAT-3152,Mark Smith,43,Male,2025-05-22,2025-05-24,Emergency,Burns,2493.05,90,Paid
+PAT-3153,Andrew Martinez,49,Male,2024-04-18,2024-04-21,Emergency,Severe Allergic Reaction,5177.47,60,Paid
+PAT-3154,Betty Williams,75,Female,2025-03-29,2025-04-06,Orthopedics,Knee Replacement,12122.8,80,Paid
+PAT-3155,Robert Jones,48,Male,2024-09-07,2024-09-11,Neurology,Parkinson's Disease,6625.48,60,Partially Paid
+PAT-3156,David Jones,72,Male,2024-07-23,2024-08-01,Orthopedics,ACL Tear,17423.45,70,Partially Paid
+PAT-3157,Richard Ramirez,65,Male,2024-06-26,2024-07-05,Cardiology,Angina,13753.53,90,Pending
+PAT-3158,Matthew Williams,44,Male,2025-09-26,2025-10-06,Cardiology,Atrial Fibrillation,18100.37,80,Paid
+PAT-3159,Linda Brown,48,Female,2024-09-05,2024-09-12,Orthopedics,Hip Fracture,16172.66,70,Pending
+PAT-3160,Carol Thompson,43,Female,2024-08-10,2024-08-17,General,Anemia,7133.08,90,Pending
+PAT-3161,Joseph Jackson,48,Male,2025-12-22,2026-01-01,Cardiology,Atrial Fibrillation,27699.3,50,Pending
+PAT-3162,Richard Rodriguez,77,Male,2024-07-02,2024-07-03,Emergency,Abdominal Pain,1403.37,80,Pending
+PAT-3163,Karen Smith,69,Female,2024-05-05,2024-05-08,Emergency,Fracture,3350.67,80,Pending
+PAT-3164,Elizabeth Williams,52,Female,2024-02-02,2024-02-04,Emergency,Fracture,2922.92,100,Pending
+PAT-3165,Lisa Garcia,67,Female,2024-11-21,2024-11-23,Emergency,Fracture,2127.71,90,Partially Paid
+PAT-3166,Ashley Smith,75,Female,2025-09-13,2025-09-22,Cardiology,Coronary Artery Disease,15507.09,90,Paid
+PAT-3167,Steven Thomas,3,Male,2025-08-15,2025-08-17,Pediatrics,Bronchitis,2767.57,50,Paid
+PAT-3168,Ashley Wilson,82,Female,2025-07-31,2025-08-01,Emergency,Abdominal Pain,1998.09,80,Paid
+PAT-3169,Carol Garcia,16,Female,2025-04-01,2025-04-06,Pediatrics,Allergic Reaction,6351.72,60,Paid
+PAT-3170,Richard Williams,47,Male,2025-02-09,2025-02-11,Emergency,Severe Allergic Reaction,2177.35,80,Paid
+PAT-3171,Mary Martin,52,Female,2025-06-12,2025-06-15,Cardiology,Angina,4484.95,80,Paid
+PAT-3172,Richard Jones,81,Male,2024-08-28,2024-08-30,Emergency,Acute Appendicitis,3381.88,90,Paid
+PAT-3173,Brian Taylor,60,Male,2025-06-23,2025-06-28,Orthopedics,Carpal Tunnel,11601.6,70,Pending
+PAT-3174,Jessica Hernandez,82,Female,2025-03-01,2025-03-03,Emergency,Abdominal Pain,2198.17,90,Paid
+PAT-3175,Emily Robinson,34,Female,2025-10-04,2025-10-17,Orthopedics,Knee Replacement,35611.43,70,Paid
+PAT-3176,Christopher White,55,Male,2025-05-21,2025-05-26,Cardiology,Hypertension,8093.35,100,Partially Paid
+PAT-3177,James White,69,Male,2024-02-11,2024-02-19,Neurology,Epilepsy,15311.93,60,Pending
+PAT-3178,Lisa Thompson,59,Female,2024-10-10,2024-10-13,Emergency,Abdominal Pain,4201.93,80,Paid
+PAT-3179,Ashley Walker,51,Female,2025-10-29,2025-11-07,Orthopedics,Spinal Disc Herniation,12277.27,90,Paid
+PAT-3180,Jessica Ramirez,7,Female,2025-05-08,2025-05-12,Pediatrics,Ear Infection,4150.83,70,Pending
+PAT-3181,Daniel Jackson,27,Male,2024-01-09,2024-01-12,General,UTI,2123.81,100,Paid
+PAT-3182,Emily Clark,56,Female,2025-01-21,2025-02-03,Orthopedics,ACL Tear,29767.07,80,Pending
+PAT-3183,David White,8,Male,2025-06-17,2025-06-22,Pediatrics,Asthma,5537.93,90,Paid
+PAT-3184,Joshua Garcia,77,Male,2025-08-22,2025-08-28,General,Diabetes Management,7949.08,60,Paid
+PAT-3185,Robert Lewis,3,Male,2024-12-25,2024-12-29,Pediatrics,Ear Infection,6607.88,70,Paid
+PAT-3186,Susan Thomas,12,Female,2024-09-13,2024-09-16,Pediatrics,Tonsillitis,4728.71,50,Paid
+PAT-3187,Barbara White,83,Female,2024-03-01,2024-03-09,Cardiology,Angina,15664.73,80,Paid
+PAT-3188,Betty Clark,53,Female,2025-10-21,2025-10-25,General,UTI,2716.52,0,Partially Paid
+PAT-3189,Susan Miller,29,Female,2024-12-17,2024-12-18,General,Pneumonia,716.18,80,Paid
+PAT-3190,Jennifer Young,49,Female,2025-03-22,2025-03-25,Neurology,Parkinson's Disease,3478.78,80,Paid
+PAT-3191,Mary Miller,48,Female,2025-11-18,2025-11-24,General,Dehydration,3693.12,100,Pending
+PAT-3192,Barbara Garcia,80,Female,2024-03-11,2024-03-12,General,Pneumonia,1441.21,0,Paid
+PAT-3193,Lisa Clark,52,Female,2024-12-13,2024-12-19,General,Pneumonia,8378.45,70,Pending
+PAT-3194,Dorothy White,77,Female,2024-10-20,2024-10-30,Cardiology,Atrial Fibrillation,16501.42,50,Paid
+PAT-3195,Linda Jackson,53,Female,2025-05-21,2025-05-30,Cardiology,Heart Failure,18430.51,100,Paid
+PAT-3196,Anthony Thompson,42,Male,2024-09-15,2024-09-18,General,Gastritis,1567.15,80,Partially Paid
+PAT-3197,Michelle Perez,61,Female,2024-09-10,2024-09-11,Emergency,Severe Allergic Reaction,917.44,80,Paid
+PAT-3198,Nancy Harris,81,Female,2025-12-03,2025-12-12,Cardiology,Heart Failure,18345.38,80,Pending
+PAT-3199,Ashley Moore,53,Female,2024-11-30,2024-12-09,Neurology,Neuropathy,19211.24,90,Paid
+PAT-3200,Joshua Rodriguez,48,Male,2025-05-28,2025-06-01,Cardiology,Angina,10336.58,100,Paid
+PAT-3201,Lisa Martin,64,Female,2025-02-17,2025-02-24,General,UTI,4926.12,70,Pending
+PAT-3202,Susan Davis,80,Female,2024-07-18,2024-07-24,Neurology,Migraine,13102.72,50,Pending
+PAT-3203,Anthony Anderson,56,Male,2024-03-04,2024-03-11,General,Diabetes Management,4595.79,80,Paid
+PAT-3204,Kenneth Jones,63,Male,2024-11-29,2024-12-02,Emergency,Fracture,3717.61,90,Pending
+PAT-3205,Daniel Young,43,Male,2025-12-21,2026-01-03,Orthopedics,Carpal Tunnel,33810.44,90,Paid
+PAT-3206,Betty Williams,8,Female,2025-01-03,2025-01-07,Pediatrics,Asthma,4115.83,50,Paid
+PAT-3207,Ashley Brown,56,Female,2025-04-01,2025-04-07,General,Diabetes Management,8245.46,50,Partially Paid
+PAT-3208,Anthony Rodriguez,11,Male,2025-02-16,2025-02-21,Pediatrics,RSV,7654.55,100,Paid
+PAT-3209,Joshua Moore,52,Male,2025-02-18,2025-02-22,Neurology,Parkinson's Disease,7167.44,80,Paid
+PAT-3210,Barbara Young,53,Female,2025-06-01,2025-06-03,Emergency,Abdominal Pain,2556.12,80,Paid
+PAT-3211,Christopher White,3,Male,2024-08-05,2024-08-08,Pediatrics,Ear Infection,3139.43,80,Paid
+PAT-3212,William Perez,84,Male,2025-03-15,2025-03-16,Emergency,Abdominal Pain,1893.98,90,Paid
+PAT-3213,Emily Clark,32,Female,2025-06-26,2025-07-02,Neurology,Parkinson's Disease,11663.48,0,Pending
+PAT-3214,Mary Taylor,39,Female,2024-09-06,2024-09-09,General,Pneumonia,1596.88,50,Partially Paid
+PAT-3215,Michelle Garcia,49,Female,2024-08-04,2024-08-09,General,Anemia,4111.79,80,Paid
+PAT-3216,Michael Perez,28,Male,2024-03-24,2024-03-27,Emergency,Abdominal Pain,6606.32,80,Paid
+PAT-3217,Carol White,53,Female,2024-09-06,2024-09-18,Neurology,Migraine,31197.0,80,Pending
+PAT-3218,Christopher Perez,46,Male,2025-01-01,2025-01-11,Cardiology,Angina,23891.3,90,Paid
+PAT-3219,David Moore,66,Male,2025-11-17,2025-11-27,Cardiology,Hypertension,18293.13,60,Partially Paid
+PAT-3220,Emily Walker,28,Female,2024-08-20,2024-08-23,Emergency,Fracture,7364.68,70,Pending
+PAT-3221,Jessica Jackson,3,Female,2024-06-26,2024-06-28,Pediatrics,RSV,2403.02,80,Paid
+PAT-3222,Thomas Miller,68,Male,2025-11-29,2025-12-09,Neurology,Multiple Sclerosis,22054.65,80,Pending
+PAT-3223,Kevin Taylor,40,Male,2025-12-22,2025-12-27,General,Anemia,6331.28,80,Partially Paid
+PAT-3224,Richard Robinson,63,Male,2024-10-09,2024-10-19,Cardiology,Coronary Artery Disease,27345.03,100,Pending
+PAT-3225,Michelle Martinez,44,Female,2024-05-02,2024-05-10,Orthopedics,Rotator Cuff Injury,11435.94,90,Paid
+PAT-3226,William Young,70,Male,2024-09-18,2024-09-19,Emergency,Chest Pain,859.95,60,Pending
+PAT-3227,Richard Smith,1,Male,2024-04-18,2024-04-21,Pediatrics,Tonsillitis,2590.21,90,Pending
+PAT-3228,Betty Thompson,48,Female,2025-07-26,2025-07-27,General,Anemia,791.92,50,Partially Paid
+PAT-3229,Jessica Young,48,Female,2024-08-10,2024-08-13,Emergency,Acute Appendicitis,3524.43,80,Paid
+PAT-3230,Joshua Taylor,43,Male,2024-06-12,2024-06-14,Orthopedics,Carpal Tunnel,4464.59,0,Partially Paid
+PAT-3231,Karen Robinson,24,Female,2024-03-19,2024-03-22,Emergency,Chest Pain,4867.61,70,Paid
+PAT-3232,Daniel Harris,41,Male,2024-11-09,2024-11-13,Cardiology,Coronary Artery Disease,5584.74,100,Paid
+PAT-3233,Sarah Perez,51,Female,2025-05-05,2025-05-07,Emergency,Abdominal Pain,4718.74,80,Pending
+PAT-3234,Joseph Robinson,10,Male,2025-02-14,2025-02-15,Pediatrics,Bronchitis,1605.56,80,Pending
+PAT-3235,Kenneth Anderson,75,Male,2025-02-28,2025-03-01,General,Diabetes Management,1383.31,90,Paid
+PAT-3236,Ashley Williams,50,Female,2025-03-31,2025-04-08,Cardiology,Hypertension,19135.11,80,Paid
+PAT-3237,Dorothy Taylor,46,Female,2024-10-13,2024-10-17,Orthopedics,ACL Tear,9234.25,70,Pending
+PAT-3238,William Williams,83,Male,2024-06-24,2024-06-29,Cardiology,Hypertension,7388.36,90,Paid
+PAT-3239,Ashley Thomas,17,Female,2024-06-22,2024-06-25,Pediatrics,Ear Infection,2080.95,100,Partially Paid
+PAT-3240,Richard Young,70,Male,2024-01-10,2024-01-12,Orthopedics,Hip Fracture,5457.97,80,Paid
+PAT-3241,Donna Jones,42,Female,2024-08-18,2024-08-30,Orthopedics,Knee Replacement,15047.59,80,Paid
+PAT-3242,Susan Brown,16,Female,2024-12-04,2024-12-06,Pediatrics,Bronchitis,2737.97,90,Paid
+PAT-3243,Thomas Miller,58,Male,2024-12-24,2025-01-07,Orthopedics,Knee Replacement,19026.97,80,Pending
+PAT-3244,Matthew Clark,35,Male,2024-02-01,2024-02-04,Emergency,Fracture,4955.5,90,Pending
+PAT-3245,Karen Ramirez,58,Female,2025-04-10,2025-04-12,Emergency,Chest Pain,4048.56,80,Pending
+PAT-3246,Joseph Perez,47,Male,2025-12-04,2025-12-10,General,UTI,6918.6,80,Paid
+PAT-3247,Elizabeth Jackson,8,Female,2024-12-24,2024-12-27,Pediatrics,Tonsillitis,3846.88,80,Paid
+PAT-3248,Carol Taylor,65,Female,2025-04-29,2025-05-03,General,Pneumonia,3019.93,70,Partially Paid
+PAT-3249,Robert Walker,4,Male,2024-11-28,2024-12-02,Pediatrics,Allergic Reaction,3543.7,90,Pending
+PAT-3250,Joshua Martin,55,Male,2025-07-14,2025-07-16,Orthopedics,Spinal Disc Herniation,2354.49,60,Partially Paid
+PAT-3251,Ashley Thomas,47,Female,2025-09-16,2025-09-19,Emergency,Abdominal Pain,4854.92,70,Partially Paid
+PAT-3252,Sandra Moore,7,Female,2024-07-05,2024-07-07,Pediatrics,Bronchitis,2341.45,90,Pending
+PAT-3253,Andrew Walker,8,Male,2024-11-05,2024-11-10,Pediatrics,Ear Infection,6634.75,100,Pending
+PAT-3254,Linda Hernandez,11,Female,2025-04-23,2025-04-26,Pediatrics,Tonsillitis,2307.54,70,Pending
+PAT-3255,Mark Clark,29,Male,2025-11-02,2025-11-07,General,Dehydration,6481.41,60,Partially Paid
+PAT-3256,Brian Wilson,43,Male,2024-01-05,2024-01-14,Cardiology,Arrhythmia,14839.54,70,Partially Paid
+PAT-3257,Emily Thomas,31,Female,2025-11-21,2025-11-26,Neurology,Multiple Sclerosis,8724.32,80,Pending
+PAT-3258,Sandra Brown,74,Female,2025-04-17,2025-04-23,General,Flu Complications,8724.05,50,Pending
+PAT-3259,Dorothy Harris,60,Female,2025-02-23,2025-03-02,Cardiology,Coronary Artery Disease,12277.2,100,Paid
+PAT-3260,Ashley Rodriguez,82,Female,2024-06-22,2024-06-25,Emergency,Abdominal Pain,7304.79,90,Paid
+PAT-3261,Dorothy Ramirez,44,Female,2025-01-25,2025-01-28,Emergency,Severe Allergic Reaction,4042.99,100,Partially Paid
+PAT-3262,David Rodriguez,25,Male,2024-04-24,2024-04-27,General,Gastritis,2452.73,0,Partially Paid
+PAT-3263,Karen Harris,15,Female,2025-12-19,2025-12-21,Pediatrics,Allergic Reaction,1535.75,90,Paid
+PAT-3264,Michelle Wilson,39,Female,2024-10-26,2024-10-27,General,Pneumonia,600.19,100,Paid
+PAT-3265,Emily Young,73,Female,2024-08-27,2024-08-29,Emergency,Burns,2662.2,100,Paid
+PAT-3266,William Clark,58,Male,2025-04-23,2025-04-26,Emergency,Abdominal Pain,2947.4,90,Paid
+PAT-3267,James Hernandez,58,Male,2025-06-07,2025-06-10,Orthopedics,Hip Fracture,6487.43,80,Paid
+PAT-3268,Elizabeth White,78,Female,2025-07-25,2025-07-29,Cardiology,Coronary Artery Disease,5274.8,80,Paid
+PAT-3269,Matthew Martin,56,Male,2025-09-19,2025-09-25,Cardiology,Atrial Fibrillation,17770.45,100,Paid
+PAT-3270,Nancy Garcia,50,Female,2025-11-28,2025-12-12,Orthopedics,Hip Fracture,38493.53,0,Paid
+PAT-3271,Betty Anderson,71,Female,2024-03-15,2024-03-18,General,Flu Complications,3136.05,90,Paid
+PAT-3272,Emily Moore,41,Female,2025-12-08,2025-12-18,Cardiology,Heart Failure,28492.22,90,Paid
+PAT-3273,Mark Martinez,47,Male,2025-02-17,2025-02-25,Cardiology,Hypertension,11794.68,70,Partially Paid
+PAT-3274,Elizabeth Lewis,16,Female,2024-12-08,2024-12-12,Pediatrics,Ear Infection,5980.76,80,Paid
+PAT-3275,Lisa Rodriguez,56,Female,2025-09-12,2025-09-23,Neurology,Migraine,16835.15,100,Paid
+PAT-3276,Elizabeth Walker,69,Female,2025-10-03,2025-10-07,General,Pneumonia,2837.18,100,Partially Paid
+PAT-3277,Kimberly White,39,Female,2025-05-01,2025-05-08,General,Diabetes Management,5652.05,0,Pending
+PAT-3278,Michelle Hernandez,51,Female,2024-02-26,2024-03-05,Cardiology,Atrial Fibrillation,15284.52,90,Paid
+PAT-3279,Michael Moore,22,Male,2024-06-22,2024-06-27,General,Anemia,6837.91,80,Pending
+PAT-3280,Emily Johnson,27,Female,2025-07-15,2025-07-25,Orthopedics,Knee Replacement,16726.01,80,Paid
+PAT-3281,Karen Davis,85,Female,2024-09-12,2024-09-18,Cardiology,Hypertension,17937.11,70,Partially Paid
+PAT-3282,Anthony Wilson,33,Male,2024-11-05,2024-11-19,Orthopedics,Spinal Disc Herniation,27571.59,90,Paid
+PAT-3283,Emily Moore,83,Female,2024-10-24,2024-10-30,Cardiology,Hypertension,13621.44,70,Partially Paid
+PAT-3284,Daniel Perez,54,Male,2024-10-14,2024-10-19,Neurology,Migraine,7553.52,50,Paid
+PAT-3285,Michelle Harris,53,Female,2024-11-16,2024-11-29,Orthopedics,Hip Fracture,34671.78,60,Paid
+PAT-3286,Robert Johnson,81,Male,2025-07-30,2025-08-04,Cardiology,Hypertension,13674.29,80,Paid
+PAT-3287,Susan Harris,31,Female,2025-02-18,2025-02-28,Neurology,Parkinson's Disease,18872.25,100,Paid
+PAT-3288,Mark Jones,22,Male,2024-12-22,2024-12-28,General,Anemia,8363.1,60,Partially Paid
+PAT-3289,Thomas Young,1,Male,2025-11-29,2025-12-02,Pediatrics,Tonsillitis,3886.44,90,Paid
+PAT-3290,Joshua Johnson,52,Male,2025-09-29,2025-10-01,General,Gastritis,2780.94,80,Paid
+PAT-3291,Joshua Clark,11,Male,2024-04-17,2024-04-18,Pediatrics,RSV,1277.56,70,Pending
+PAT-3292,Kimberly Rodriguez,6,Female,2024-02-21,2024-02-24,Pediatrics,Allergic Reaction,2921.29,50,Partially Paid
+PAT-3293,Nancy Johnson,74,Female,2024-07-13,2024-07-16,Emergency,Concussion,4516.54,70,Pending
+PAT-3294,Michelle Martin,37,Female,2024-03-21,2024-04-03,Orthopedics,Hip Fracture,15943.22,80,Paid
+PAT-3295,Michelle Lee,84,Female,2024-05-31,2024-06-03,Cardiology,Angina,6113.0,80,Paid
+PAT-3296,Richard Young,70,Male,2024-08-03,2024-08-06,Emergency,Severe Allergic Reaction,4356.16,0,Paid
+PAT-3297,Thomas Walker,18,Male,2025-05-17,2025-05-20,Emergency,Abdominal Pain,2810.17,90,Paid
+PAT-3298,Kimberly Smith,41,Female,2024-09-24,2024-09-28,General,Gastritis,3049.69,60,Paid
+PAT-3299,Betty Robinson,70,Female,2025-04-16,2025-04-19,General,Gastritis,2096.49,60,Pending
+PAT-3300,Elizabeth Brown,44,Female,2025-09-05,2025-09-10,Orthopedics,Carpal Tunnel,12341.99,70,Paid
+PAT-3301,Anthony Garcia,31,Male,2025-08-13,2025-08-16,Emergency,Chest Pain,3445.79,90,Paid
+PAT-3302,Barbara Davis,68,Female,2024-04-13,2024-04-16,Cardiology,Hypertension,4176.93,0,Paid
+PAT-3303,William Rodriguez,50,Male,2025-12-28,2026-01-02,Cardiology,Heart Failure,10022.5,70,Pending
+PAT-3304,Robert Lee,57,Male,2024-02-20,2024-02-27,Neurology,Parkinson's Disease,13346.03,60,Paid
+PAT-3305,Karen Williams,67,Female,2025-09-12,2025-09-18,Orthopedics,Carpal Tunnel,12949.84,80,Paid
+PAT-3306,Barbara Clark,76,Female,2025-03-28,2025-03-31,Neurology,Neuropathy,5780.36,90,Partially Paid
+PAT-3307,Matthew Anderson,25,Male,2025-09-28,2025-10-07,Orthopedics,Carpal Tunnel,12079.5,60,Pending
+PAT-3308,Joseph Moore,40,Male,2024-11-19,2024-11-26,General,Dehydration,7389.52,80,Pending
+PAT-3309,David Thomas,78,Male,2025-08-19,2025-08-22,Cardiology,Atrial Fibrillation,5108.64,60,Pending
+PAT-3310,Daniel Johnson,30,Male,2024-05-24,2024-05-26,Emergency,Severe Allergic Reaction,3176.54,80,Paid
+PAT-3311,Anthony Johnson,54,Male,2024-09-09,2024-09-17,Orthopedics,Hip Fracture,17049.4,100,Partially Paid
+PAT-3312,Carol Brown,67,Female,2025-11-08,2025-11-09,Emergency,Chest Pain,1997.86,70,Paid
+PAT-3313,Mark Brown,43,Male,2024-08-15,2024-08-19,General,Anemia,4991.59,0,Partially Paid
+PAT-3314,Elizabeth Taylor,70,Female,2024-08-20,2024-08-29,Neurology,Parkinson's Disease,17095.62,90,Paid
+PAT-3315,Brian Lewis,64,Male,2025-08-18,2025-08-20,Emergency,Fracture,4730.04,80,Paid
+PAT-3316,Joseph Perez,56,Male,2024-09-24,2024-10-01,General,Flu Complications,10303.59,70,Pending
+PAT-3317,Anthony Walker,56,Male,2024-06-04,2024-06-10,General,Pneumonia,7120.81,80,Partially Paid
+PAT-3318,Brian Lewis,38,Male,2025-07-12,2025-07-13,Emergency,Severe Allergic Reaction,1418.29,80,Paid
+PAT-3319,Brian Ramirez,77,Male,2024-04-23,2024-04-26,Emergency,Acute Appendicitis,4818.4,60,Paid
+PAT-3320,James Wilson,51,Male,2024-02-21,2024-02-22,Emergency,Abdominal Pain,1333.29,70,Paid
+PAT-3321,Ashley Jackson,34,Female,2025-03-27,2025-03-28,Emergency,Acute Appendicitis,1437.43,100,Paid
+PAT-3322,James Thomas,64,Male,2025-06-11,2025-06-14,General,Gastritis,2608.29,0,Paid
+PAT-3323,Susan Lee,8,Female,2024-05-14,2024-05-18,Pediatrics,Allergic Reaction,6107.32,80,Paid
+PAT-3324,Betty Jones,5,Female,2024-03-08,2024-03-09,Pediatrics,Tonsillitis,763.74,90,Pending
+PAT-3325,Lisa Martinez,3,Female,2025-06-25,2025-06-30,Pediatrics,Ear Infection,8208.35,0,Partially Paid
+PAT-3326,Ashley Martin,26,Female,2024-07-11,2024-07-25,Orthopedics,Hip Fracture,20575.84,80,Pending
+PAT-3327,Kevin Lopez,1,Male,2025-07-25,2025-07-28,Pediatrics,Asthma,5295.19,90,Paid
+PAT-3328,Betty Harris,35,Female,2025-11-12,2025-11-21,Orthopedics,Knee Replacement,23024.56,70,Pending
+PAT-3329,Linda Jackson,33,Female,2025-05-05,2025-05-08,Emergency,Chest Pain,7452.68,70,Paid
+PAT-3330,Matthew Clark,80,Male,2024-03-03,2024-03-11,Neurology,Epilepsy,10908.13,60,Paid
+PAT-3331,Christopher Johnson,27,Male,2024-04-23,2024-04-29,General,Pneumonia,7501.37,70,Partially Paid
+PAT-3332,Sarah Davis,61,Female,2025-04-24,2025-04-25,Emergency,Chest Pain,1264.69,90,Paid
+PAT-3333,Susan Martin,54,Female,2024-05-08,2024-05-19,Orthopedics,Knee Replacement,26730.35,0,Pending
+PAT-3334,Michelle Garcia,57,Female,2025-03-30,2025-04-02,Neurology,Multiple Sclerosis,6655.97,60,Pending
+PAT-3335,Matthew Garcia,63,Male,2024-03-03,2024-03-11,Cardiology,Hypertension,11856.84,70,Pending
+PAT-3336,David Clark,45,Male,2025-04-20,2025-04-21,Emergency,Chest Pain,1625.38,80,Paid
+PAT-3337,Andrew Moore,71,Male,2025-12-05,2025-12-11,Cardiology,Arrhythmia,10880.84,80,Paid
+PAT-3338,Christopher Davis,69,Male,2025-10-10,2025-10-11,General,Pneumonia,1151.51,90,Pending
+PAT-3339,Elizabeth Harris,43,Female,2024-05-22,2024-05-29,Cardiology,Arrhythmia,13660.38,50,Pending
+PAT-3340,William Perez,21,Male,2025-01-15,2025-01-19,General,Pneumonia,5372.91,90,Paid
+PAT-3341,Kenneth Smith,16,Male,2024-03-06,2024-03-09,Pediatrics,Bronchitis,5108.66,80,Paid
+PAT-3342,Sarah Robinson,72,Female,2025-05-01,2025-05-04,Emergency,Acute Appendicitis,4730.36,90,Paid
+PAT-3343,Jennifer Lopez,57,Female,2025-01-13,2025-01-16,General,Anemia,4389.91,80,Paid
+PAT-3344,Sandra Robinson,39,Female,2025-09-06,2025-09-14,Orthopedics,Knee Replacement,8536.89,80,Paid
+PAT-3345,Kimberly White,12,Female,2024-10-13,2024-10-18,Pediatrics,Allergic Reaction,3347.44,0,Partially Paid
+PAT-3346,Susan Jackson,57,Female,2025-10-07,2025-10-13,Cardiology,Coronary Artery Disease,15565.46,70,Pending
+PAT-3347,Robert Martin,52,Male,2025-11-18,2025-11-25,General,Pneumonia,4507.14,80,Partially Paid
+PAT-3348,Brian Robinson,62,Male,2025-07-10,2025-07-17,Cardiology,Atrial Fibrillation,10788.07,70,Pending
+PAT-3349,Andrew Lewis,46,Male,2024-05-19,2024-05-28,Cardiology,Angina,26034.08,80,Paid
+PAT-3350,Kenneth Taylor,44,Male,2024-08-21,2024-08-29,Cardiology,Hypertension,10409.19,90,Partially Paid
+PAT-3351,Jennifer Hernandez,62,Female,2024-08-02,2024-08-03,Emergency,Chest Pain,1428.8,80,Pending
+PAT-3352,Sarah Anderson,73,Female,2025-05-22,2025-05-25,Emergency,Fracture,6491.42,0,Partially Paid
+PAT-3353,Mary Martinez,80,Female,2025-03-20,2025-03-23,Emergency,Acute Appendicitis,2816.11,80,Partially Paid
+PAT-3354,Matthew Clark,12,Male,2025-11-28,2025-12-03,Pediatrics,Tonsillitis,6337.74,60,Pending
+PAT-3355,Lisa Thomas,48,Female,2024-04-16,2024-04-23,General,Gastritis,8162.88,60,Paid
+PAT-3356,Thomas Williams,69,Male,2025-02-18,2025-02-20,General,Diabetes Management,2495.13,70,Paid
+PAT-3357,Ashley Martinez,16,Female,2024-06-11,2024-06-12,Pediatrics,Tonsillitis,1054.14,50,Pending
+PAT-3358,Mary Ramirez,73,Female,2025-03-30,2025-03-31,Emergency,Burns,1251.25,80,Paid
+PAT-3359,Kenneth Miller,53,Male,2025-03-20,2025-03-26,Cardiology,Hypertension,16598.08,80,Paid
+PAT-3360,Emily Hernandez,46,Female,2024-10-04,2024-10-08,General,UTI,4875.57,90,Paid
+PAT-3361,Paul Perez,53,Male,2025-12-02,2025-12-07,Neurology,Epilepsy,12181.3,50,Paid
+PAT-3362,James Harris,59,Male,2025-07-24,2025-07-25,Emergency,Fracture,2262.27,100,Paid
+PAT-3363,Kevin Thompson,77,Male,2025-05-10,2025-05-16,Neurology,Parkinson's Disease,15249.23,60,Paid
+PAT-3364,Elizabeth Hernandez,21,Female,2024-02-03,2024-02-06,General,Gastritis,3947.95,80,Paid
+PAT-3365,Anthony White,59,Male,2024-10-27,2024-11-09,Orthopedics,Rotator Cuff Injury,35549.13,100,Pending
+PAT-3366,Richard Lewis,2,Male,2025-02-04,2025-02-08,Pediatrics,Tonsillitis,7038.14,70,Partially Paid
+PAT-3367,Andrew Williams,77,Male,2025-11-10,2025-11-19,Cardiology,Coronary Artery Disease,14877.84,100,Pending
+PAT-3368,James Wilson,30,Male,2025-07-07,2025-07-18,Orthopedics,Rotator Cuff Injury,14678.51,60,Pending
+PAT-3369,Brian Garcia,42,Male,2025-12-11,2025-12-13,Emergency,Fracture,3466.32,70,Paid
+PAT-3370,Joshua Miller,59,Male,2024-08-26,2024-09-09,Orthopedics,Carpal Tunnel,21123.25,80,Paid
+PAT-3371,Robert Smith,7,Male,2025-03-13,2025-03-18,Pediatrics,Asthma,5585.79,0,Partially Paid
+PAT-3372,Barbara Smith,37,Female,2024-09-13,2024-09-18,General,Gastritis,6953.83,90,Pending
+PAT-3373,Sandra Jones,33,Female,2025-01-02,2025-01-03,Emergency,Severe Allergic Reaction,2224.13,70,Paid
+PAT-3374,Matthew Anderson,76,Male,2025-04-21,2025-04-27,Cardiology,Arrhythmia,11111.41,70,Paid
+PAT-3375,Andrew Williams,31,Male,2024-09-12,2024-09-19,General,Anemia,8312.57,70,Paid
+PAT-3376,Richard Young,36,Male,2024-10-30,2024-11-04,General,UTI,4633.5,90,Paid
+PAT-3377,Betty Young,29,Female,2024-10-25,2024-10-28,Orthopedics,ACL Tear,6028.31,80,Partially Paid
+PAT-3378,James Jackson,64,Male,2024-04-03,2024-04-08,Neurology,Multiple Sclerosis,6224.81,70,Partially Paid
+PAT-3379,Richard Smith,44,Male,2024-07-27,2024-08-07,Orthopedics,Rotator Cuff Injury,18959.16,60,Paid
+PAT-3380,Carol Robinson,77,Female,2024-03-27,2024-03-29,General,Flu Complications,2123.39,80,Paid
+PAT-3381,Dorothy Hernandez,51,Female,2024-08-31,2024-09-02,Orthopedics,ACL Tear,4043.37,100,Paid
+PAT-3382,Steven Martin,4,Male,2025-01-13,2025-01-14,Pediatrics,Ear Infection,843.6,70,Partially Paid
+PAT-3383,Linda Hernandez,37,Female,2025-12-21,2025-12-25,General,Pneumonia,2561.88,70,Paid
+PAT-3384,Sarah Lopez,21,Female,2024-01-02,2024-01-03,Emergency,Concussion,1511.32,80,Pending
+PAT-3385,Daniel Anderson,55,Male,2025-09-30,2025-10-14,Orthopedics,Rotator Cuff Injury,27685.69,70,Paid
+PAT-3386,Matthew Martinez,24,Male,2024-10-26,2024-10-30,General,Gastritis,3028.33,70,Pending
+PAT-3387,Mark Walker,70,Male,2025-04-04,2025-04-18,Orthopedics,Knee Replacement,37544.02,80,Paid
+PAT-3388,Christopher Clark,32,Male,2024-06-01,2024-06-08,Neurology,Parkinson's Disease,17899.3,70,Partially Paid
+PAT-3389,Joseph Lee,11,Male,2025-12-19,2025-12-22,Pediatrics,RSV,5297.21,80,Paid
+PAT-3390,Steven Wilson,46,Male,2024-01-14,2024-01-22,Cardiology,Heart Failure,10640.24,0,Partially Paid
+PAT-3391,Mary Martin,40,Female,2024-12-10,2024-12-13,Neurology,Neuropathy,3660.71,70,Partially Paid
+PAT-3392,Jennifer Harris,42,Female,2025-10-11,2025-10-17,Neurology,Multiple Sclerosis,10028.68,80,Pending
+PAT-3393,Karen Thompson,9,Female,2024-01-05,2024-01-10,Pediatrics,Allergic Reaction,7238.61,50,Pending
+PAT-3394,Sarah Harris,29,Female,2024-01-01,2024-01-02,General,Anemia,969.55,90,Paid
+PAT-3395,Steven Young,63,Male,2024-07-27,2024-08-06,Cardiology,Angina,29016.4,70,Paid
+PAT-3396,Dorothy Clark,15,Female,2025-07-19,2025-07-23,Pediatrics,Asthma,6415.8,80,Paid
+PAT-3397,Anthony Lewis,54,Male,2024-12-20,2024-12-25,Cardiology,Heart Failure,12816.46,50,Paid
+PAT-3398,Jennifer Miller,77,Female,2024-10-17,2024-10-20,Cardiology,Coronary Artery Disease,7577.11,80,Paid
+PAT-3399,Robert White,35,Male,2024-12-15,2024-12-16,Emergency,Fracture,1670.53,80,Paid
+PAT-3400,Anthony Clark,58,Male,2024-04-08,2024-04-16,Orthopedics,Knee Replacement,19956.13,100,Paid
+PAT-3401,Steven Thomas,73,Male,2024-05-29,2024-05-31,Emergency,Burns,2111.68,90,Paid
+PAT-3402,Elizabeth Martin,40,Female,2024-02-14,2024-02-20,Orthopedics,Spinal Disc Herniation,9466.9,70,Partially Paid
+PAT-3403,Sandra Lopez,42,Female,2024-01-03,2024-01-13,Neurology,Stroke,20681.51,90,Paid
+PAT-3404,William Lewis,12,Male,2025-04-03,2025-04-07,Pediatrics,Allergic Reaction,2556.54,100,Paid
+PAT-3405,William Ramirez,67,Male,2024-03-08,2024-03-16,Neurology,Neuropathy,20496.01,100,Pending
+PAT-3406,Christopher Ramirez,1,Male,2024-04-23,2024-04-24,Pediatrics,RSV,1269.22,90,Paid
+PAT-3407,Susan Jones,74,Female,2024-08-23,2024-09-01,Orthopedics,Rotator Cuff Injury,14175.59,70,Partially Paid
+PAT-3408,Michelle Rodriguez,36,Female,2025-07-07,2025-07-09,Emergency,Chest Pain,2258.07,80,Paid
+PAT-3409,Michael Lopez,53,Male,2025-11-19,2025-11-20,General,Pneumonia,1471.29,80,Paid
+PAT-3410,Emily Thompson,7,Female,2025-04-08,2025-04-12,Pediatrics,RSV,4671.33,70,Paid
+PAT-3411,Richard Anderson,56,Male,2025-12-24,2025-12-27,Emergency,Concussion,3856.57,70,Paid
+PAT-3412,Sarah Lopez,42,Female,2025-11-09,2025-11-18,Cardiology,Hypertension,22775.06,80,Paid
+PAT-3413,Ashley Lee,53,Female,2024-03-24,2024-03-26,Emergency,Severe Allergic Reaction,2542.99,60,Pending
+PAT-3414,Karen Lewis,4,Female,2025-07-02,2025-07-06,Pediatrics,Asthma,7044.38,90,Paid
+PAT-3415,Betty Ramirez,11,Female,2025-04-05,2025-04-07,Pediatrics,Allergic Reaction,3402.4,90,Paid
+PAT-3416,Elizabeth Garcia,62,Female,2024-09-05,2024-09-10,Orthopedics,Spinal Disc Herniation,13881.6,70,Paid
+PAT-3417,Thomas Anderson,29,Male,2025-04-01,2025-04-03,General,UTI,1362.39,80,Paid
+PAT-3418,Kenneth Lewis,2,Male,2024-01-06,2024-01-11,Pediatrics,Allergic Reaction,8510.78,70,Paid
+PAT-3419,Kevin Wilson,67,Male,2024-09-29,2024-10-02,General,UTI,2154.97,90,Paid
+PAT-3420,Jessica White,62,Female,2024-05-16,2024-05-19,General,UTI,1950.0,80,Pending
+PAT-3421,Carol Lewis,72,Female,2024-08-20,2024-08-25,Orthopedics,Hip Fracture,5004.03,100,Paid
+PAT-3422,Joseph Robinson,63,Male,2024-03-25,2024-04-01,Neurology,Parkinson's Disease,7752.04,90,Paid
+PAT-3423,David Anderson,69,Male,2024-02-09,2024-02-14,Orthopedics,Carpal Tunnel,6986.97,100,Pending
+PAT-3424,William Anderson,52,Male,2025-11-05,2025-11-06,Emergency,Chest Pain,1744.21,80,Pending
+PAT-3425,Ashley Ramirez,28,Female,2024-01-16,2024-01-29,Orthopedics,Spinal Disc Herniation,23326.29,60,Paid
+PAT-3426,Donna Ramirez,51,Female,2025-09-25,2025-10-02,General,Diabetes Management,5587.17,70,Pending
+PAT-3427,Emily Walker,46,Female,2025-05-19,2025-06-01,Orthopedics,Hip Fracture,19329.24,80,Paid
+PAT-3428,Matthew Jones,46,Male,2025-02-14,2025-02-22,Cardiology,Atrial Fibrillation,20311.28,0,Pending
+PAT-3429,Sandra Harris,73,Female,2025-10-03,2025-10-06,Emergency,Abdominal Pain,2647.99,80,Pending
+PAT-3430,Linda Garcia,14,Female,2025-12-14,2025-12-16,Pediatrics,Tonsillitis,3396.48,90,Paid
+PAT-3431,James Clark,82,Male,2024-02-19,2024-02-26,General,Gastritis,9947.52,60,Pending
+PAT-3432,Lisa Jones,11,Female,2024-06-15,2024-06-17,Pediatrics,Ear Infection,2103.42,60,Pending
+PAT-3433,Barbara Martinez,41,Female,2024-07-03,2024-07-13,Orthopedics,Carpal Tunnel,20914.48,50,Pending
+PAT-3434,James Young,57,Male,2024-08-06,2024-08-17,Orthopedics,Carpal Tunnel,16613.29,60,Partially Paid
+PAT-3435,Sarah Perez,62,Female,2024-12-05,2024-12-18,Orthopedics,Hip Fracture,23037.14,70,Paid
+PAT-3436,Brian Rodriguez,23,Male,2024-12-27,2024-12-28,General,Pneumonia,618.74,80,Paid
+PAT-3437,Paul Clark,42,Male,2025-10-22,2025-10-25,General,Diabetes Management,3292.07,50,Paid
+PAT-3438,Robert Lee,48,Male,2024-01-01,2024-01-05,General,Anemia,5249.64,90,Paid
+PAT-3439,Michael Clark,71,Male,2025-08-16,2025-08-21,Orthopedics,ACL Tear,5726.98,80,Paid
+PAT-3440,Andrew Garcia,16,Male,2024-05-12,2024-05-14,Pediatrics,Asthma,3417.93,100,Paid
+PAT-3441,Linda Davis,73,Female,2024-09-07,2024-09-14,General,Flu Complications,4075.7,100,Paid
+PAT-3442,Christopher Taylor,17,Male,2025-02-19,2025-02-21,Pediatrics,Asthma,1245.26,100,Paid
+PAT-3443,Robert Rodriguez,49,Male,2025-09-04,2025-09-05,General,Gastritis,1338.57,100,Pending
+PAT-3444,Elizabeth Brown,41,Female,2025-04-14,2025-04-21,Neurology,Migraine,11778.46,60,Partially Paid
+PAT-3445,Kenneth Thomas,65,Male,2025-01-18,2025-01-21,Cardiology,Coronary Artery Disease,6875.63,70,Pending
+PAT-3446,Joseph Walker,36,Male,2025-06-25,2025-06-30,General,Gastritis,4520.0,90,Paid
+PAT-3447,Joseph Martin,47,Male,2024-01-05,2024-01-16,Orthopedics,Knee Replacement,11719.07,80,Paid
+PAT-3448,Susan Thompson,74,Female,2025-07-08,2025-07-19,Neurology,Epilepsy,13712.17,80,Paid
+PAT-3449,Kevin Lewis,73,Male,2024-09-05,2024-09-06,Emergency,Fracture,2492.86,100,Paid
+PAT-3450,Thomas Hernandez,19,Male,2025-06-24,2025-06-25,Emergency,Concussion,1867.11,80,Paid
+PAT-3451,Daniel Perez,68,Male,2024-07-09,2024-07-16,Cardiology,Atrial Fibrillation,9821.73,80,Paid
+PAT-3452,Kimberly Robinson,46,Female,2024-03-31,2024-04-07,Neurology,Neuropathy,9183.36,0,Pending
+PAT-3453,Richard Moore,59,Male,2025-01-23,2025-01-25,General,Gastritis,1293.94,100,Paid
+PAT-3454,Carol Taylor,48,Female,2024-10-21,2024-10-30,Cardiology,Coronary Artery Disease,23400.73,100,Paid
+PAT-3455,Donna Lewis,68,Female,2025-11-05,2025-11-10,General,Flu Complications,5575.83,70,Paid
+PAT-3456,Mary Garcia,22,Female,2024-04-16,2024-04-17,General,Diabetes Management,711.37,90,Pending
+PAT-3457,Joshua Young,55,Male,2025-12-23,2025-12-26,Emergency,Acute Appendicitis,3304.36,60,Paid
+PAT-3458,William Anderson,48,Male,2024-03-03,2024-03-11,Neurology,Epilepsy,18171.34,70,Partially Paid
+PAT-3459,Emily Clark,49,Female,2024-06-27,2024-07-09,Orthopedics,Spinal Disc Herniation,32666.57,80,Partially Paid
+PAT-3460,Thomas Young,57,Male,2024-02-28,2024-03-05,General,Diabetes Management,8770.94,80,Paid
+PAT-3461,Matthew Lee,37,Male,2025-03-05,2025-03-08,Neurology,Stroke,5722.85,70,Partially Paid
+PAT-3462,Lisa Perez,73,Female,2024-11-03,2024-11-04,Emergency,Chest Pain,1228.01,90,Paid
+PAT-3463,Linda Thompson,78,Female,2024-11-10,2024-11-17,General,Anemia,8155.8,80,Paid
+PAT-3464,Emily Taylor,75,Female,2024-05-19,2024-05-30,Orthopedics,Spinal Disc Herniation,21834.98,80,Paid
+PAT-3465,Elizabeth Martin,51,Female,2025-12-13,2025-12-22,Orthopedics,Carpal Tunnel,24478.42,70,Pending
+PAT-3466,Joshua White,24,Male,2024-08-26,2024-08-30,General,Anemia,3310.93,50,Paid
+PAT-3467,Sarah Martinez,11,Female,2024-05-17,2024-05-22,Pediatrics,Allergic Reaction,3615.86,70,Paid
+PAT-3468,Sandra Clark,71,Female,2025-02-06,2025-02-13,Cardiology,Coronary Artery Disease,14885.93,90,Paid
+PAT-3469,Ashley Ramirez,29,Female,2024-01-05,2024-01-19,Orthopedics,Hip Fracture,21594.51,60,Paid
+PAT-3470,William Williams,35,Male,2025-09-07,2025-09-18,Orthopedics,Rotator Cuff Injury,16660.51,70,Pending
+PAT-3471,Susan Perez,9,Female,2024-03-01,2024-03-04,Pediatrics,Tonsillitis,5025.87,80,Paid
+PAT-3472,Michelle Wilson,64,Female,2024-05-25,2024-05-27,Orthopedics,ACL Tear,3693.42,90,Paid
+PAT-3473,Andrew Jackson,11,Male,2025-06-11,2025-06-15,Pediatrics,Allergic Reaction,6070.15,70,Paid
+PAT-3474,Kevin Perez,78,Male,2025-05-06,2025-05-07,General,Diabetes Management,1488.89,80,Paid
+PAT-3475,Michael Smith,64,Male,2024-07-04,2024-07-07,General,Diabetes Management,3173.52,90,Partially Paid
+PAT-3476,Michelle Jones,38,Female,2025-04-23,2025-05-02,Orthopedics,Rotator Cuff Injury,12100.26,90,Partially Paid
+PAT-3477,Jennifer Smith,66,Female,2024-02-21,2024-02-27,Cardiology,Arrhythmia,17141.0,90,Paid
+PAT-3478,Betty Moore,36,Female,2025-01-26,2025-01-27,Emergency,Fracture,1576.85,80,Pending
+PAT-3479,William Rodriguez,54,Male,2024-07-31,2024-08-01,General,Dehydration,534.38,80,Paid
+PAT-3480,Kimberly Clark,1,Female,2024-01-09,2024-01-10,Pediatrics,Ear Infection,728.22,60,Paid
+PAT-3481,Thomas Martin,29,Male,2025-07-09,2025-07-15,Orthopedics,Spinal Disc Herniation,12100.99,100,Pending
+PAT-3482,Dorothy Brown,77,Female,2025-05-14,2025-05-20,Cardiology,Atrial Fibrillation,8417.51,70,Partially Paid
+PAT-3483,Linda Davis,82,Female,2024-08-15,2024-08-18,Cardiology,Coronary Artery Disease,4494.01,50,Partially Paid
+PAT-3484,Paul Johnson,2,Male,2024-03-09,2024-03-13,Pediatrics,Ear Infection,3929.21,90,Pending
+PAT-3485,Lisa Jones,48,Female,2025-11-22,2025-12-06,Orthopedics,ACL Tear,24600.43,70,Pending
+PAT-3486,Joseph Clark,60,Male,2024-05-26,2024-05-29,Emergency,Burns,4928.06,60,Partially Paid
+PAT-3487,Linda Wilson,69,Female,2025-01-29,2025-01-30,Emergency,Concussion,1292.28,100,Paid
+PAT-3488,Nancy Jones,14,Female,2024-11-02,2024-11-05,Pediatrics,Allergic Reaction,3900.85,90,Paid
+PAT-3489,Nancy Perez,39,Female,2025-04-24,2025-04-29,General,UTI,2872.81,100,Pending
+PAT-3490,Barbara Brown,43,Female,2025-11-14,2025-11-23,Orthopedics,Carpal Tunnel,16993.79,70,Partially Paid
+PAT-3491,Matthew Ramirez,11,Male,2025-11-18,2025-11-22,Pediatrics,Bronchitis,4693.35,80,Paid
+PAT-3492,Sarah Brown,71,Female,2025-11-29,2025-11-30,Emergency,Acute Appendicitis,2381.67,60,Partially Paid
+PAT-3493,Robert Williams,14,Male,2024-04-05,2024-04-07,Pediatrics,Asthma,3014.2,60,Pending
+PAT-3494,Mary Thompson,45,Female,2024-05-19,2024-05-27,Neurology,Migraine,13434.66,60,Pending
+PAT-3495,Michael White,29,Male,2025-05-15,2025-05-26,Orthopedics,Spinal Disc Herniation,13647.71,50,Paid
+PAT-3496,Michael Robinson,44,Male,2025-10-02,2025-10-04,Orthopedics,Hip Fracture,4992.76,60,Paid
+PAT-3497,Robert Jackson,42,Male,2024-12-31,2025-01-02,Emergency,Severe Allergic Reaction,4370.5,70,Pending
+PAT-3498,Donna Johnson,48,Female,2025-01-04,2025-01-08,General,Gastritis,3007.7,80,Pending
+PAT-3499,Donna Martinez,50,Female,2025-01-09,2025-01-16,Neurology,Multiple Sclerosis,17578.87,80,Paid
+PAT-3500,Anthony White,78,Male,2025-09-10,2025-09-12,General,Dehydration,1203.76,90,Pending
+PAT-3501,Donna Lee,22,Female,2024-12-13,2024-12-16,Emergency,Abdominal Pain,2453.12,50,Paid
+PAT-3502,Kevin White,64,Male,2024-04-28,2024-05-01,Cardiology,Heart Failure,6452.72,70,Paid
+PAT-3503,Lisa Lee,10,Female,2024-07-31,2024-08-03,Pediatrics,RSV,3215.48,90,Paid
+PAT-3504,Daniel Jones,62,Male,2025-01-21,2025-01-27,Cardiology,Arrhythmia,17458.62,0,Paid
+PAT-3505,Steven Young,57,Male,2025-12-02,2025-12-07,Cardiology,Atrial Fibrillation,14707.56,80,Partially Paid
+PAT-3506,Steven Davis,52,Male,2024-07-13,2024-07-17,General,Dehydration,5116.62,90,Partially Paid
+PAT-3507,Barbara Davis,29,Female,2024-08-06,2024-08-13,Orthopedics,Carpal Tunnel,11957.78,80,Pending
+PAT-3508,Michelle Taylor,76,Female,2024-08-21,2024-08-22,Emergency,Concussion,2237.66,80,Paid
+PAT-3509,Steven Robinson,29,Male,2025-07-18,2025-07-19,General,Anemia,912.18,50,Pending
+PAT-3510,Lisa Lopez,63,Female,2025-01-09,2025-01-10,Emergency,Severe Allergic Reaction,2435.08,60,Partially Paid
+PAT-3511,Michael Miller,55,Male,2024-02-06,2024-02-18,Orthopedics,Spinal Disc Herniation,26103.65,60,Partially Paid
+PAT-3512,William Jones,6,Male,2025-02-07,2025-02-08,Pediatrics,RSV,762.87,80,Paid
+PAT-3513,Michelle Thompson,15,Female,2025-10-15,2025-10-16,Pediatrics,Tonsillitis,653.57,70,Pending
+PAT-3514,Mary Taylor,60,Female,2025-12-24,2025-12-27,Orthopedics,Carpal Tunnel,7007.11,80,Paid
+PAT-3515,Joshua Williams,66,Male,2025-05-15,2025-05-22,General,Anemia,9641.39,80,Paid
+PAT-3516,Lisa Wilson,41,Female,2025-04-01,2025-04-11,Orthopedics,Carpal Tunnel,20277.68,60,Pending
+PAT-3517,Sandra Williams,56,Female,2025-10-20,2025-10-27,Cardiology,Hypertension,10406.79,70,Pending
+PAT-3518,Steven Johnson,25,Male,2025-04-21,2025-04-24,Emergency,Chest Pain,5735.73,80,Pending
+PAT-3519,Andrew Lewis,38,Male,2024-07-06,2024-07-09,General,Dehydration,4420.13,90,Paid
+PAT-3520,Karen Walker,56,Female,2025-08-19,2025-08-25,General,Pneumonia,4034.24,90,Pending
+PAT-3521,Brian Miller,53,Male,2025-01-24,2025-02-04,Neurology,Neuropathy,18224.23,80,Paid
+PAT-3522,Thomas Clark,21,Male,2024-07-22,2024-07-29,General,Pneumonia,4562.96,90,Paid
+PAT-3523,David Anderson,1,Male,2024-10-31,2024-11-05,Pediatrics,Tonsillitis,7560.63,0,Paid
+PAT-3524,Sarah Anderson,21,Female,2025-07-15,2025-07-16,General,Anemia,605.0,80,Paid
+PAT-3525,Lisa Davis,77,Female,2025-01-25,2025-01-26,Emergency,Fracture,899.35,70,Pending
+PAT-3526,Kenneth Davis,54,Male,2024-02-28,2024-03-04,Cardiology,Atrial Fibrillation,13642.77,80,Partially Paid
+PAT-3527,Emily Walker,49,Female,2024-09-08,2024-09-09,General,Gastritis,1419.55,90,Partially Paid
+PAT-3528,Thomas Garcia,74,Male,2025-09-08,2025-09-13,General,Flu Complications,4915.01,90,Paid
+PAT-3529,Sarah Lee,24,Female,2024-06-08,2024-06-09,General,Pneumonia,879.73,80,Paid
+PAT-3530,Barbara Thompson,78,Female,2024-07-23,2024-07-26,Emergency,Concussion,4924.09,70,Paid
+PAT-3531,Joshua Miller,34,Male,2025-11-02,2025-11-12,Orthopedics,Rotator Cuff Injury,13077.22,60,Partially Paid
+PAT-3532,William Young,45,Male,2025-10-11,2025-10-18,General,Anemia,5438.75,80,Paid
+PAT-3533,Carol Ramirez,59,Female,2024-10-27,2024-11-04,Cardiology,Angina,23659.1,90,Pending
+PAT-3534,Robert Clark,80,Male,2024-07-17,2024-07-22,Cardiology,Coronary Artery Disease,10323.56,70,Paid
+PAT-3535,James Walker,53,Male,2024-12-17,2024-12-26,Orthopedics,Spinal Disc Herniation,23629.36,90,Paid
+PAT-3536,Thomas Lewis,65,Male,2024-03-08,2024-03-14,General,Pneumonia,7474.49,70,Paid
+PAT-3537,Elizabeth Robinson,46,Female,2025-05-27,2025-05-30,Emergency,Acute Appendicitis,6062.52,90,Paid
+PAT-3538,Karen Taylor,19,Female,2024-06-29,2024-07-01,Emergency,Burns,4748.93,0,Paid
+PAT-3539,Anthony Jackson,12,Male,2025-05-10,2025-05-14,Pediatrics,Asthma,5993.64,0,Partially Paid
+PAT-3540,Michael Taylor,49,Male,2025-11-20,2025-11-22,General,Anemia,1129.2,80,Paid
+PAT-3541,Barbara Davis,47,Female,2024-05-05,2024-05-08,Emergency,Fracture,2925.89,60,Partially Paid
+PAT-3542,Karen Davis,60,Female,2024-09-30,2024-10-02,Emergency,Fracture,3791.25,60,Pending
+PAT-3543,Karen White,39,Female,2024-06-23,2024-06-30,Orthopedics,Spinal Disc Herniation,17536.5,90,Paid
+PAT-3544,Sarah Davis,35,Female,2025-01-30,2025-02-03,General,Flu Complications,2285.72,90,Paid
+PAT-3545,Carol Wilson,37,Female,2024-01-13,2024-01-22,Orthopedics,Carpal Tunnel,11741.84,80,Paid
+PAT-3546,Emily Jackson,51,Female,2025-10-13,2025-10-21,Cardiology,Arrhythmia,17157.7,80,Pending
+PAT-3547,Susan Clark,69,Female,2025-05-16,2025-05-17,General,UTI,1202.17,0,Partially Paid
+PAT-3548,David Johnson,10,Male,2025-05-25,2025-05-26,Pediatrics,RSV,963.75,100,Paid
+PAT-3549,Andrew White,5,Male,2025-07-03,2025-07-04,Pediatrics,RSV,634.45,80,Paid
+PAT-3550,Joshua Clark,67,Male,2025-06-19,2025-07-01,Orthopedics,Carpal Tunnel,15003.09,60,Pending
+PAT-3551,Jennifer Anderson,33,Female,2024-08-16,2024-08-18,Emergency,Severe Allergic Reaction,1936.8,80,Paid
+PAT-3552,Karen Taylor,37,Female,2025-03-20,2025-03-23,Emergency,Abdominal Pain,6193.25,60,Pending
+PAT-3553,Donna Jackson,72,Female,2025-10-18,2025-10-25,Orthopedics,Rotator Cuff Injury,11831.06,80,Partially Paid
+PAT-3554,Richard Perez,75,Male,2025-02-04,2025-02-11,General,Gastritis,7790.86,100,Paid
+PAT-3555,Nancy Young,27,Female,2025-11-20,2025-11-27,General,Anemia,4784.6,70,Paid
+PAT-3556,James Williams,60,Male,2024-02-05,2024-02-09,Cardiology,Arrhythmia,11688.29,70,Partially Paid
+PAT-3557,Richard Perez,42,Male,2024-09-09,2024-09-17,Cardiology,Angina,18692.25,70,Paid
+PAT-3558,Richard Davis,10,Male,2024-05-31,2024-06-05,Pediatrics,RSV,3371.75,100,Paid
+PAT-3559,Barbara Martinez,79,Female,2024-08-12,2024-08-14,Emergency,Concussion,4382.48,70,Pending
+PAT-3560,Michelle Brown,82,Female,2024-09-14,2024-09-18,General,Flu Complications,4088.62,60,Partially Paid
+PAT-3561,Mark Lopez,7,Male,2025-07-27,2025-07-30,Pediatrics,Bronchitis,3324.31,80,Partially Paid
+PAT-3562,Paul Taylor,25,Male,2024-05-01,2024-05-09,Orthopedics,Rotator Cuff Injury,9961.07,70,Paid
+PAT-3563,Richard Brown,77,Male,2024-01-24,2024-01-30,General,Gastritis,8841.14,0,Paid
+PAT-3564,David Williams,3,Male,2025-04-09,2025-04-12,Pediatrics,RSV,5228.94,50,Pending
+PAT-3565,Daniel Williams,47,Male,2025-11-05,2025-11-10,General,Pneumonia,6395.28,90,Paid
+PAT-3566,Jennifer Young,68,Female,2024-08-12,2024-08-13,General,Gastritis,973.65,80,Pending
+PAT-3567,Joshua Garcia,52,Male,2025-03-08,2025-03-13,Cardiology,Arrhythmia,10137.39,70,Partially Paid
+PAT-3568,Ashley Moore,28,Female,2024-01-09,2024-01-21,Orthopedics,ACL Tear,22947.49,80,Paid
+PAT-3569,Kevin Anderson,67,Male,2024-09-18,2024-09-20,Orthopedics,Hip Fracture,2438.71,70,Partially Paid
+PAT-3570,Barbara Smith,55,Female,2024-03-09,2024-03-11,Emergency,Chest Pain,1963.87,80,Partially Paid
+PAT-3571,Andrew White,12,Male,2025-06-23,2025-06-26,Pediatrics,Ear Infection,3527.16,70,Paid
+PAT-3572,Richard Thomas,35,Male,2025-07-26,2025-07-29,Emergency,Chest Pain,5342.79,70,Paid
+PAT-3573,Betty Jackson,30,Female,2024-08-19,2024-08-31,Orthopedics,ACL Tear,30203.49,100,Pending
+PAT-3574,Joshua Clark,69,Male,2024-04-25,2024-05-01,Orthopedics,ACL Tear,7312.84,70,Pending
+PAT-3575,Sarah Robinson,34,Female,2024-05-31,2024-06-04,General,UTI,4926.28,90,Paid
+PAT-3576,Kimberly Moore,84,Female,2025-09-06,2025-09-08,Emergency,Concussion,3526.66,100,Partially Paid
+PAT-3577,Kimberly Jones,76,Female,2025-04-30,2025-05-04,General,Pneumonia,3004.47,80,Paid
+PAT-3578,Michael Brown,55,Male,2025-05-22,2025-05-23,Emergency,Fracture,988.47,90,Paid
+PAT-3579,Jennifer Lee,63,Female,2025-07-07,2025-07-14,Cardiology,Coronary Artery Disease,8993.97,60,Paid
+PAT-3580,Anthony Moore,66,Male,2025-07-01,2025-07-05,Cardiology,Heart Failure,7934.14,80,Paid
+PAT-3581,Elizabeth Thomas,35,Female,2025-09-23,2025-09-26,Emergency,Acute Appendicitis,2517.29,80,Paid
+PAT-3582,William Hernandez,48,Male,2024-06-30,2024-07-08,Cardiology,Atrial Fibrillation,12873.58,70,Pending
+PAT-3583,Barbara Martin,73,Female,2025-09-06,2025-09-10,General,Flu Complications,5208.98,80,Paid
+PAT-3584,Joseph Davis,80,Male,2024-07-16,2024-07-25,Cardiology,Angina,16136.12,100,Paid
+PAT-3585,Lisa Thomas,10,Female,2025-08-04,2025-08-08,Pediatrics,Tonsillitis,4827.5,80,Partially Paid
+PAT-3586,Kenneth Jones,19,Male,2025-07-12,2025-07-15,Emergency,Concussion,6858.75,80,Pending
+PAT-3587,Lisa Smith,9,Female,2024-11-16,2024-11-21,Pediatrics,Ear Infection,6485.39,70,Partially Paid
+PAT-3588,Anthony Miller,71,Male,2024-07-25,2024-07-29,General,Dehydration,5888.84,60,Paid
+PAT-3589,William Lopez,57,Male,2025-04-01,2025-04-02,General,Pneumonia,988.37,90,Paid
+PAT-3590,Thomas Harris,41,Male,2024-01-13,2024-01-26,Orthopedics,Hip Fracture,20871.69,60,Partially Paid
+PAT-3591,Lisa Jackson,44,Female,2025-09-26,2025-10-02,Neurology,Parkinson's Disease,14061.87,50,Paid
+PAT-3592,Andrew Hernandez,74,Male,2024-09-24,2024-09-27,General,Diabetes Management,3702.92,70,Pending
+PAT-3593,Christopher Jackson,42,Male,2024-03-31,2024-04-04,Cardiology,Heart Failure,6940.9,70,Paid
+PAT-3594,Joseph Clark,74,Male,2025-07-11,2025-07-20,Cardiology,Angina,25312.2,70,Pending
+PAT-3595,Brian Clark,20,Male,2025-03-23,2025-03-26,Emergency,Fracture,4859.27,60,Pending
+PAT-3596,Dorothy Garcia,7,Female,2024-12-28,2025-01-01,Pediatrics,Allergic Reaction,5071.39,90,Partially Paid
+PAT-3597,Dorothy Robinson,46,Female,2024-04-12,2024-04-13,General,Anemia,826.69,80,Paid
+PAT-3598,Kenneth Thomas,75,Male,2024-06-23,2024-06-26,Emergency,Abdominal Pain,3573.44,80,Paid
+PAT-3599,Betty Davis,17,Female,2024-11-25,2024-11-27,Pediatrics,Allergic Reaction,3120.86,70,Paid
+PAT-3600,Jessica Anderson,36,Female,2025-03-25,2025-03-26,Emergency,Acute Appendicitis,1050.82,70,Pending
+PAT-3601,Barbara Hernandez,58,Female,2024-03-17,2024-03-20,Emergency,Abdominal Pain,4246.95,70,Partially Paid
+PAT-3602,Daniel Moore,24,Male,2025-09-18,2025-09-21,Emergency,Chest Pain,3111.41,90,Paid
+PAT-3603,Ashley Moore,56,Female,2024-12-04,2024-12-09,General,Flu Complications,6980.98,90,Paid
+PAT-3604,Paul Smith,41,Male,2024-02-08,2024-02-17,Neurology,Stroke,11620.41,100,Paid
+PAT-3605,Donna Ramirez,50,Female,2025-07-22,2025-07-25,Emergency,Concussion,3974.41,50,Paid
+PAT-3606,Richard Robinson,72,Male,2024-06-10,2024-06-16,Neurology,Parkinson's Disease,14702.17,80,Pending
+PAT-3607,Thomas Perez,41,Male,2025-05-18,2025-05-25,Cardiology,Coronary Artery Disease,17086.83,90,Paid
+PAT-3608,Richard Anderson,24,Male,2024-01-13,2024-01-14,Emergency,Burns,867.61,100,Paid
+PAT-3609,Dorothy Martin,51,Female,2025-04-17,2025-04-23,General,Flu Complications,4084.48,80,Paid
+PAT-3610,Kimberly Lee,84,Female,2025-07-27,2025-07-28,General,Diabetes Management,1290.53,90,Paid
+PAT-3611,Ashley Martinez,3,Female,2024-12-17,2024-12-21,Pediatrics,Ear Infection,3707.94,90,Paid
+PAT-3612,Joseph Jones,57,Male,2025-05-02,2025-05-11,Neurology,Neuropathy,15346.13,80,Paid
+PAT-3613,Sarah Moore,45,Female,2025-04-02,2025-04-07,General,Dehydration,4821.37,80,Paid
+PAT-3614,Paul Hernandez,69,Male,2025-08-25,2025-09-01,Cardiology,Heart Failure,15787.69,100,Paid
+PAT-3615,Kimberly Jones,14,Female,2025-09-23,2025-09-26,Pediatrics,Tonsillitis,5118.06,80,Paid
+PAT-3616,Sandra Lewis,36,Female,2024-12-17,2024-12-18,Emergency,Severe Allergic Reaction,1184.98,80,Paid
+PAT-3617,Nancy Martinez,16,Female,2024-01-26,2024-01-29,Pediatrics,Bronchitis,2558.28,90,Paid
+PAT-3618,Daniel Robinson,76,Male,2025-01-13,2025-01-16,Cardiology,Hypertension,3998.34,100,Paid
+PAT-3619,Lisa Brown,68,Female,2024-11-30,2024-12-03,Orthopedics,Knee Replacement,4286.64,70,Pending
+PAT-3620,Mary Garcia,73,Female,2025-10-26,2025-11-04,Cardiology,Arrhythmia,21392.04,80,Paid
+PAT-3621,Robert Ramirez,37,Male,2025-11-22,2025-11-24,Emergency,Severe Allergic Reaction,3201.39,80,Paid
+PAT-3622,Anthony Clark,11,Male,2024-07-28,2024-07-30,Pediatrics,Tonsillitis,3300.07,100,Paid
+PAT-3623,Paul Martinez,7,Male,2025-06-04,2025-06-05,Pediatrics,Ear Infection,784.49,90,Paid
+PAT-3624,Brian Lopez,26,Male,2025-02-07,2025-02-08,General,Anemia,1170.6,80,Paid
+PAT-3625,Richard Rodriguez,61,Male,2024-11-04,2024-11-08,Cardiology,Atrial Fibrillation,11503.8,60,Partially Paid
+PAT-3626,Jessica Ramirez,8,Female,2025-06-28,2025-06-30,Pediatrics,Allergic Reaction,1522.86,90,Pending
+PAT-3627,Sandra Jackson,78,Female,2025-02-17,2025-02-27,Neurology,Multiple Sclerosis,22757.12,90,Paid
+PAT-3628,Daniel Jones,11,Male,2024-09-01,2024-09-06,Pediatrics,Ear Infection,3197.15,70,Partially Paid
+PAT-3629,Sarah Ramirez,73,Female,2024-05-29,2024-05-31,General,Flu Complications,2710.85,60,Pending
+PAT-3630,Michelle Young,84,Female,2025-09-18,2025-09-20,Emergency,Fracture,4532.09,90,Pending
+PAT-3631,Daniel Hernandez,43,Male,2025-07-19,2025-07-22,Orthopedics,Rotator Cuff Injury,4972.62,80,Paid
+PAT-3632,Robert Rodriguez,1,Male,2024-11-13,2024-11-15,Pediatrics,Bronchitis,3235.05,70,Paid
+PAT-3633,Emily Jones,49,Female,2025-10-07,2025-10-09,General,Pneumonia,2401.17,90,Pending
+PAT-3634,Donna Garcia,51,Female,2024-05-07,2024-05-19,Orthopedics,Spinal Disc Herniation,33210.05,80,Pending
+PAT-3635,Donna Lewis,73,Female,2024-12-17,2024-12-27,Orthopedics,Knee Replacement,23689.65,90,Paid
+PAT-3636,Steven Thompson,26,Male,2025-10-30,2025-11-02,General,Flu Complications,2927.98,100,Paid
+PAT-3637,Karen Thomas,58,Female,2025-04-13,2025-04-22,Cardiology,Heart Failure,10908.77,90,Pending
+PAT-3638,Thomas Martinez,65,Male,2024-07-05,2024-07-10,Cardiology,Angina,9405.2,70,Pending
+PAT-3639,Jennifer Harris,37,Female,2025-08-19,2025-08-27,Neurology,Neuropathy,11960.8,80,Paid
+PAT-3640,Michael Garcia,68,Male,2024-09-02,2024-09-03,General,Anemia,1174.7,90,Pending
+PAT-3641,Kenneth Lee,41,Male,2024-01-23,2024-01-30,General,UTI,6487.34,80,Paid
+PAT-3642,Anthony Moore,40,Male,2025-04-05,2025-04-07,Emergency,Chest Pain,3282.55,70,Pending
+PAT-3643,Ashley Jones,55,Female,2025-02-28,2025-03-06,Orthopedics,ACL Tear,13468.92,80,Paid
+PAT-3644,Thomas Thompson,76,Male,2025-07-30,2025-08-04,Cardiology,Atrial Fibrillation,7431.19,80,Pending
+PAT-3645,Nancy Davis,77,Female,2024-11-16,2024-11-20,Neurology,Multiple Sclerosis,4416.84,80,Partially Paid
+PAT-3646,Michael Johnson,77,Male,2025-11-06,2025-11-07,Emergency,Abdominal Pain,1265.79,80,Pending
+PAT-3647,Linda Davis,47,Female,2024-08-05,2024-08-10,General,Pneumonia,7496.19,80,Paid
+PAT-3648,Jennifer Jackson,46,Female,2024-03-30,2024-04-03,General,Diabetes Management,5991.42,100,Partially Paid
+PAT-3649,Thomas Jones,62,Male,2024-05-16,2024-05-26,Cardiology,Atrial Fibrillation,12878.2,80,Paid
+PAT-3650,Steven Walker,5,Male,2025-12-17,2025-12-21,Pediatrics,Allergic Reaction,4752.84,80,Paid
+PAT-3651,Thomas Robinson,34,Male,2024-05-23,2024-05-24,General,Dehydration,1394.75,0,Pending
+PAT-3652,Michael Thomas,59,Male,2024-08-21,2024-08-23,Emergency,Concussion,3366.33,70,Pending
+PAT-3653,Sarah Young,65,Female,2024-10-24,2024-10-30,Cardiology,Angina,9890.23,80,Paid
+PAT-3654,David Wilson,44,Male,2024-03-28,2024-04-01,Cardiology,Atrial Fibrillation,10351.12,80,Pending
+PAT-3655,Steven Walker,17,Male,2025-10-25,2025-10-26,Pediatrics,RSV,836.96,70,Paid
+PAT-3656,Dorothy Perez,16,Female,2024-07-23,2024-07-28,Pediatrics,Asthma,6886.9,50,Pending
+PAT-3657,Kenneth Perez,3,Male,2024-04-06,2024-04-11,Pediatrics,Ear Infection,7993.91,90,Partially Paid
+PAT-3658,Richard Moore,79,Male,2025-09-26,2025-10-03,General,Dehydration,9475.62,90,Paid
+PAT-3659,Kenneth Davis,10,Male,2025-11-14,2025-11-19,Pediatrics,Asthma,8509.42,0,Paid
+PAT-3660,Robert Lopez,50,Male,2024-12-09,2024-12-17,Orthopedics,ACL Tear,20107.36,70,Paid
+PAT-3661,Matthew Hernandez,29,Male,2024-07-18,2024-07-28,Orthopedics,Carpal Tunnel,26732.79,80,Paid
+PAT-3662,Christopher Thompson,27,Male,2025-07-30,2025-07-31,Emergency,Severe Allergic Reaction,2285.5,50,Paid
+PAT-3663,Sarah Williams,11,Female,2024-05-06,2024-05-10,Pediatrics,RSV,3830.25,90,Pending
+PAT-3664,Donna Brown,17,Female,2024-05-26,2024-05-31,Pediatrics,Ear Infection,3322.2,60,Paid
+PAT-3665,Carol Smith,42,Female,2024-10-20,2024-10-28,Cardiology,Arrhythmia,16467.43,70,Paid
+PAT-3666,Karen Martinez,57,Female,2024-07-04,2024-07-09,Orthopedics,Hip Fracture,11600.46,100,Paid
+PAT-3667,Brian Perez,64,Male,2024-02-12,2024-02-22,Neurology,Parkinson's Disease,15327.29,80,Paid
+PAT-3668,Kenneth Wilson,47,Male,2024-12-23,2024-12-30,General,Dehydration,6289.07,100,Pending
+PAT-3669,Michelle Anderson,45,Female,2025-01-04,2025-01-07,Neurology,Migraine,4517.86,80,Pending
+PAT-3670,Kimberly Clark,13,Female,2024-07-20,2024-07-22,Pediatrics,Tonsillitis,3226.45,90,Paid
+PAT-3671,Elizabeth Harris,2,Female,2024-03-18,2024-03-20,Pediatrics,Bronchitis,1704.46,60,Pending
+PAT-3672,Robert Clark,55,Male,2025-07-17,2025-07-18,General,Gastritis,921.05,70,Partially Paid
+PAT-3673,Emily Rodriguez,78,Female,2024-04-22,2024-04-29,General,Pneumonia,3751.44,80,Paid
+PAT-3674,James Lewis,73,Male,2025-07-17,2025-07-21,General,Diabetes Management,5182.15,70,Partially Paid
+PAT-3675,Richard Williams,57,Male,2025-11-04,2025-11-10,Cardiology,Atrial Fibrillation,13365.24,70,Partially Paid
+PAT-3676,Carol Clark,75,Female,2025-10-26,2025-11-06,Orthopedics,Carpal Tunnel,14351.59,50,Paid
+PAT-3677,Christopher Thompson,2,Male,2025-06-06,2025-06-07,Pediatrics,Tonsillitis,1340.39,80,Partially Paid
+PAT-3678,Christopher Garcia,61,Male,2025-08-31,2025-09-02,General,UTI,2477.89,80,Pending
+PAT-3679,Elizabeth Hernandez,6,Female,2025-11-20,2025-11-22,Pediatrics,Allergic Reaction,1871.78,80,Pending
+PAT-3680,Elizabeth Ramirez,36,Female,2024-07-22,2024-07-24,Emergency,Fracture,3205.01,70,Paid
+PAT-3681,Ashley Clark,52,Female,2025-03-10,2025-03-11,General,Anemia,1148.98,50,Partially Paid
+PAT-3682,Nancy Thomas,6,Female,2025-10-22,2025-10-24,Pediatrics,Allergic Reaction,2502.72,80,Paid
+PAT-3683,Joseph Davis,68,Male,2024-12-26,2025-01-05,Orthopedics,Carpal Tunnel,23367.19,80,Partially Paid
+PAT-3684,Joseph White,54,Male,2025-09-17,2025-09-29,Orthopedics,ACL Tear,14220.87,80,Paid
+PAT-3685,Daniel Jones,7,Male,2025-03-22,2025-03-25,Pediatrics,Tonsillitis,2954.11,80,Paid
+PAT-3686,Donna Lee,17,Female,2025-11-23,2025-11-24,Pediatrics,Allergic Reaction,609.66,90,Partially Paid
+PAT-3687,Anthony Thompson,59,Male,2025-11-06,2025-11-10,Orthopedics,Hip Fracture,8093.46,80,Paid
+PAT-3688,Paul Jackson,81,Male,2025-03-30,2025-03-31,Emergency,Chest Pain,2072.19,60,Partially Paid
+PAT-3689,Ashley Garcia,21,Female,2025-12-12,2025-12-14,Emergency,Burns,1895.35,50,Pending
+PAT-3690,Thomas Lee,32,Male,2025-12-04,2025-12-05,General,Diabetes Management,1195.19,100,Paid
+PAT-3691,David Martinez,59,Male,2025-10-23,2025-10-26,Emergency,Severe Allergic Reaction,6880.53,90,Pending
+PAT-3692,Mary Johnson,3,Female,2025-05-05,2025-05-10,Pediatrics,RSV,8731.85,100,Pending
+PAT-3693,Betty Ramirez,71,Female,2025-01-16,2025-01-22,Neurology,Epilepsy,10575.02,70,Pending
+PAT-3694,Carol Anderson,46,Female,2024-12-19,2024-12-22,General,Gastritis,1975.02,90,Partially Paid
+PAT-3695,Kenneth Rodriguez,47,Male,2024-04-16,2024-04-24,Orthopedics,Spinal Disc Herniation,14406.87,100,Pending
+PAT-3696,Karen Thomas,79,Female,2025-09-12,2025-09-17,Cardiology,Coronary Artery Disease,10285.16,80,Partially Paid
+PAT-3697,Matthew Lewis,14,Male,2024-04-06,2024-04-07,Pediatrics,RSV,730.74,0,Partially Paid
+PAT-3698,Anthony Taylor,30,Male,2025-10-07,2025-10-13,Orthopedics,Spinal Disc Herniation,12841.02,70,Paid
+PAT-3699,Michael Young,71,Male,2024-03-14,2024-03-17,Neurology,Migraine,3969.91,90,Paid
+PAT-3700,Joshua Brown,47,Male,2025-09-10,2025-09-13,General,Flu Complications,3558.48,90,Pending
+PAT-3701,Richard Johnson,35,Male,2024-12-21,2024-12-23,Emergency,Concussion,2492.36,90,Partially Paid
+PAT-3702,Richard Garcia,64,Male,2025-04-05,2025-04-08,General,UTI,2931.95,100,Paid
+PAT-3703,Nancy Brown,39,Female,2024-12-08,2024-12-10,Emergency,Fracture,3264.79,70,Paid
+PAT-3704,Thomas Wilson,65,Male,2025-12-28,2026-01-01,General,Gastritis,5976.06,70,Pending
+PAT-3705,Donna Ramirez,85,Female,2025-03-26,2025-03-27,General,Flu Complications,1133.1,70,Pending
+PAT-3706,Anthony Moore,85,Male,2025-08-28,2025-08-30,Emergency,Fracture,4676.38,90,Paid
+PAT-3707,Anthony Jackson,72,Male,2025-01-07,2025-01-09,Emergency,Fracture,2041.86,90,Paid
+PAT-3708,Lisa Lee,40,Female,2024-07-22,2024-07-28,Cardiology,Coronary Artery Disease,11703.16,90,Paid
+PAT-3709,Donna Jones,6,Female,2025-10-12,2025-10-13,Pediatrics,Allergic Reaction,1336.01,80,Pending
+PAT-3710,Thomas Smith,81,Male,2025-04-30,2025-05-08,Cardiology,Atrial Fibrillation,21413.92,80,Paid
+PAT-3711,Nancy Davis,56,Female,2024-12-28,2024-12-30,Emergency,Acute Appendicitis,4020.17,80,Partially Paid
+PAT-3712,Karen Lee,66,Female,2024-06-22,2024-07-04,Orthopedics,ACL Tear,28053.05,80,Paid
+PAT-3713,Michelle Harris,34,Female,2024-09-23,2024-10-04,Neurology,Migraine,23948.97,100,Paid
+PAT-3714,David Young,84,Male,2025-03-25,2025-04-03,Cardiology,Heart Failure,23623.51,90,Pending
+PAT-3715,James Ramirez,34,Male,2025-08-25,2025-08-31,Neurology,Epilepsy,10445.3,60,Partially Paid
+PAT-3716,Mark White,51,Male,2025-08-22,2025-08-29,Orthopedics,Knee Replacement,19007.18,70,Paid
+PAT-3717,David Jones,43,Male,2025-05-13,2025-05-16,Emergency,Abdominal Pain,2458.76,90,Paid
+PAT-3718,Brian Moore,32,Male,2025-01-21,2025-01-29,Orthopedics,Spinal Disc Herniation,14632.49,60,Partially Paid
+PAT-3719,Susan Perez,34,Female,2025-03-24,2025-03-29,General,Dehydration,2891.81,80,Paid
+PAT-3720,Linda Davis,54,Female,2024-09-16,2024-09-19,Cardiology,Hypertension,8029.13,80,Pending
+PAT-3721,Matthew Wilson,45,Male,2025-11-12,2025-11-13,General,Diabetes Management,858.67,80,Paid
+PAT-3722,Steven Perez,16,Male,2025-11-17,2025-11-19,Pediatrics,Bronchitis,3460.07,100,Pending
+PAT-3723,Brian Harris,48,Male,2025-08-10,2025-08-17,General,Gastritis,7776.12,60,Pending
+PAT-3724,Brian Lewis,69,Male,2024-04-28,2024-04-30,Emergency,Concussion,4547.85,70,Partially Paid
+PAT-3725,Emily White,68,Female,2024-04-13,2024-04-18,Cardiology,Arrhythmia,11509.91,0,Pending
+PAT-3726,Michelle Thomas,22,Female,2024-06-10,2024-06-13,Emergency,Acute Appendicitis,2402.42,100,Paid
+PAT-3727,Robert Garcia,15,Male,2024-03-01,2024-03-05,Pediatrics,RSV,4108.03,80,Paid
+PAT-3728,Lisa Miller,48,Female,2025-01-17,2025-01-23,General,Gastritis,3552.94,80,Pending
+PAT-3729,Ashley Martinez,85,Female,2024-08-17,2024-08-20,Emergency,Severe Allergic Reaction,2872.72,50,Pending
+PAT-3730,James Perez,49,Male,2024-11-12,2024-11-20,Orthopedics,Rotator Cuff Injury,8897.51,80,Paid
+PAT-3731,Carol Robinson,10,Female,2024-04-25,2024-04-28,Pediatrics,Ear Infection,3469.08,80,Paid
+PAT-3732,Andrew Clark,47,Male,2024-01-09,2024-01-15,Cardiology,Angina,8778.52,80,Pending
+PAT-3733,Mark Brown,66,Male,2024-06-06,2024-06-20,Orthopedics,Hip Fracture,38501.9,80,Paid
+PAT-3734,Andrew Martinez,43,Male,2025-12-25,2025-12-27,General,UTI,1693.89,80,Paid
+PAT-3735,William Walker,29,Male,2024-05-28,2024-05-29,Emergency,Burns,1250.03,80,Paid
+PAT-3736,Dorothy Ramirez,76,Female,2024-10-12,2024-10-13,Emergency,Acute Appendicitis,2286.55,90,Partially Paid
+PAT-3737,Christopher White,70,Male,2024-07-31,2024-08-01,Emergency,Acute Appendicitis,1516.2,80,Paid
+PAT-3738,Sarah Garcia,79,Female,2025-01-02,2025-01-12,Cardiology,Atrial Fibrillation,24161.06,100,Paid
+PAT-3739,Ashley Thompson,76,Female,2024-12-24,2024-12-27,Emergency,Severe Allergic Reaction,5162.18,90,Partially Paid
+PAT-3740,Thomas Young,27,Male,2025-03-08,2025-03-21,Orthopedics,Hip Fracture,22371.56,80,Paid
+PAT-3741,Elizabeth Jackson,82,Female,2024-10-27,2024-10-28,Emergency,Burns,1865.06,80,Paid
+PAT-3742,Joseph Martinez,71,Male,2024-09-23,2024-09-26,Cardiology,Coronary Artery Disease,7640.58,80,Partially Paid
+PAT-3743,Karen Williams,69,Female,2025-01-31,2025-02-02,General,Diabetes Management,2892.4,50,Paid
+PAT-3744,Richard Rodriguez,32,Male,2024-12-24,2024-12-31,Neurology,Neuropathy,9495.53,100,Pending
+PAT-3745,Ashley Rodriguez,29,Female,2024-09-24,2024-09-25,Emergency,Concussion,870.1,80,Paid
+PAT-3746,Sarah Davis,76,Female,2024-01-15,2024-01-16,General,Flu Complications,1437.06,70,Pending
+PAT-3747,Sarah Perez,53,Female,2024-08-15,2024-08-20,General,Dehydration,2735.83,90,Pending
+PAT-3748,Kenneth Wilson,27,Male,2024-12-02,2024-12-03,Emergency,Abdominal Pain,1879.03,100,Paid
+PAT-3749,Ashley Martinez,11,Female,2024-07-09,2024-07-13,Pediatrics,Allergic Reaction,4685.15,70,Partially Paid
+PAT-3750,Richard Rodriguez,30,Male,2025-11-26,2025-11-28,Emergency,Severe Allergic Reaction,4638.35,90,Partially Paid
+PAT-3751,Betty Thompson,35,Female,2024-06-11,2024-06-14,Emergency,Chest Pain,6181.48,90,Paid
+PAT-3752,Donna Clark,66,Female,2025-12-02,2025-12-08,Neurology,Epilepsy,10893.55,80,Paid
+PAT-3753,Joshua Miller,70,Male,2024-07-08,2024-07-12,General,Anemia,5559.19,100,Paid
+PAT-3754,Jennifer Lewis,82,Female,2025-07-29,2025-08-04,Cardiology,Coronary Artery Disease,12777.22,90,Paid
+PAT-3755,Karen Rodriguez,28,Female,2024-03-11,2024-03-12,Emergency,Severe Allergic Reaction,824.72,80,Paid
+PAT-3756,Kenneth Davis,77,Male,2025-03-28,2025-04-01,Neurology,Stroke,7892.83,90,Paid
+PAT-3757,Sarah Martinez,34,Female,2024-09-02,2024-09-04,Emergency,Burns,4965.79,80,Paid
+PAT-3758,Jennifer Taylor,8,Female,2024-03-19,2024-03-21,Pediatrics,Ear Infection,1380.95,70,Paid
+PAT-3759,Joshua Hernandez,41,Male,2024-07-11,2024-07-12,General,Dehydration,783.53,50,Paid
+PAT-3760,Andrew Moore,50,Male,2025-02-14,2025-02-15,General,Diabetes Management,644.33,50,Partially Paid
+PAT-3761,Christopher Lee,64,Male,2025-11-25,2025-11-26,Emergency,Abdominal Pain,803.78,90,Paid
+PAT-3762,Andrew Robinson,32,Male,2025-09-09,2025-09-16,General,Gastritis,7286.69,80,Paid
+PAT-3763,Jessica Lee,47,Female,2024-11-01,2024-11-04,Emergency,Chest Pain,6520.03,80,Paid
+PAT-3764,Nancy Clark,46,Female,2025-12-01,2025-12-02,General,Diabetes Management,1101.07,70,Pending
+PAT-3765,Karen Ramirez,48,Female,2025-09-04,2025-09-14,Cardiology,Angina,15930.98,80,Paid
+PAT-3766,James Johnson,47,Male,2024-09-22,2024-09-29,General,Pneumonia,6394.95,100,Partially Paid
+PAT-3767,David Wilson,18,Male,2024-01-01,2024-01-03,General,Anemia,2803.03,90,Paid
+PAT-3768,James Walker,41,Male,2024-01-25,2024-01-28,Neurology,Neuropathy,4689.52,80,Paid
+PAT-3769,Donna Thompson,67,Female,2024-08-10,2024-08-20,Neurology,Migraine,13724.66,80,Paid
+PAT-3770,Matthew Brown,74,Male,2025-02-20,2025-02-24,Cardiology,Arrhythmia,9130.48,60,Partially Paid
+PAT-3771,Ashley Jones,32,Female,2024-04-20,2024-04-21,Emergency,Chest Pain,2383.8,70,Paid
+PAT-3772,Betty Rodriguez,51,Female,2024-01-06,2024-01-09,General,Pneumonia,1901.75,70,Pending
+PAT-3773,Matthew Jones,55,Male,2025-06-24,2025-06-27,Emergency,Concussion,5558.16,60,Paid
+PAT-3774,Robert Hernandez,34,Male,2025-05-28,2025-06-04,General,Gastritis,4500.7,90,Paid
+PAT-3775,Paul Rodriguez,81,Male,2025-02-11,2025-02-16,Cardiology,Arrhythmia,9036.9,50,Pending
+PAT-3776,Michael Wilson,83,Male,2025-06-19,2025-06-24,General,UTI,4404.23,50,Partially Paid
+PAT-3777,Anthony Miller,51,Male,2024-06-22,2024-06-27,General,Pneumonia,4907.47,80,Paid
+PAT-3778,Brian Davis,71,Male,2025-03-15,2025-03-25,Cardiology,Atrial Fibrillation,26768.21,100,Partially Paid
+PAT-3779,Kimberly Thompson,85,Female,2025-06-03,2025-06-07,General,Anemia,2615.96,100,Paid
+PAT-3780,Mark Harris,74,Male,2025-12-17,2025-12-23,General,UTI,7371.54,70,Partially Paid
+PAT-3781,Elizabeth Lopez,74,Female,2024-12-31,2025-01-01,Emergency,Fracture,1984.12,70,Pending
+PAT-3782,Sarah Ramirez,42,Female,2025-04-08,2025-04-14,Neurology,Multiple Sclerosis,15265.35,100,Paid
+PAT-3783,Christopher Martin,43,Male,2024-10-09,2024-10-20,Neurology,Migraine,24895.77,80,Paid
+PAT-3784,Betty Davis,43,Female,2025-03-27,2025-03-31,General,Diabetes Management,2392.67,60,Partially Paid
+PAT-3785,Sarah Jackson,23,Female,2024-12-08,2024-12-09,General,Pneumonia,1000.43,90,Paid
+PAT-3786,David Rodriguez,58,Male,2025-02-21,2025-02-25,Neurology,Epilepsy,10299.0,90,Paid
+PAT-3787,Kimberly Smith,58,Female,2024-10-09,2024-10-19,Neurology,Parkinson's Disease,25129.38,90,Paid
+PAT-3788,Joshua Jones,9,Male,2024-05-06,2024-05-11,Pediatrics,Asthma,6735.15,100,Partially Paid
+PAT-3789,Carol Lewis,62,Female,2024-08-26,2024-09-05,Cardiology,Hypertension,20130.14,70,Paid
+PAT-3790,Kenneth Robinson,3,Male,2024-02-27,2024-02-28,Pediatrics,Bronchitis,1138.69,80,Paid
+PAT-3791,Matthew Martin,75,Male,2025-09-19,2025-10-02,Orthopedics,Carpal Tunnel,17304.05,80,Paid
+PAT-3792,Emily Garcia,66,Female,2025-01-09,2025-01-13,General,UTI,2563.36,70,Paid
+PAT-3793,Carol Ramirez,73,Female,2025-08-17,2025-08-23,General,Flu Complications,5938.64,80,Paid
+PAT-3794,Robert Lee,58,Male,2025-04-16,2025-04-19,Orthopedics,Knee Replacement,6946.39,90,Paid
+PAT-3795,Dorothy Thomas,32,Female,2025-06-04,2025-06-15,Neurology,Stroke,15560.38,80,Paid
+PAT-3796,Joshua Thomas,14,Male,2025-03-30,2025-04-03,Pediatrics,Asthma,6667.93,90,Pending
+PAT-3797,Thomas Smith,26,Male,2024-01-14,2024-01-16,Emergency,Fracture,3800.12,70,Paid
+PAT-3798,Elizabeth Miller,25,Female,2024-02-22,2024-02-23,Emergency,Severe Allergic Reaction,1697.82,80,Paid
+PAT-3799,Robert Lopez,44,Male,2025-11-19,2025-11-22,Cardiology,Coronary Artery Disease,8833.89,100,Paid
+PAT-3800,Robert Hernandez,52,Male,2025-06-01,2025-06-02,General,Diabetes Management,809.13,60,Pending
+PAT-3801,Matthew Moore,66,Male,2024-02-13,2024-02-15,Emergency,Chest Pain,2529.54,100,Pending
+PAT-3802,Donna Jackson,8,Female,2025-10-09,2025-10-12,Pediatrics,RSV,4739.39,80,Pending
+PAT-3803,Sarah Brown,37,Female,2025-10-31,2025-11-01,Emergency,Concussion,1444.42,80,Paid
+PAT-3804,Carol Lee,21,Female,2024-04-02,2024-04-03,General,Dehydration,646.89,70,Pending
+PAT-3805,Brian Clark,64,Male,2024-09-18,2024-09-20,Emergency,Acute Appendicitis,4600.38,70,Paid
+PAT-3806,Elizabeth Walker,78,Female,2024-07-22,2024-07-25,Emergency,Concussion,2479.7,80,Paid
+PAT-3807,James Perez,48,Male,2025-10-25,2025-11-01,General,Gastritis,10101.09,80,Partially Paid
+PAT-3808,Karen Miller,59,Female,2025-09-21,2025-09-24,General,UTI,2291.15,60,Paid
+PAT-3809,Barbara Miller,61,Female,2024-10-05,2024-10-08,General,Diabetes Management,4440.52,0,Pending
+PAT-3810,Richard Martinez,83,Male,2024-11-06,2024-11-07,General,Gastritis,923.56,90,Paid
+PAT-3811,James Young,62,Male,2024-11-05,2024-11-08,Cardiology,Coronary Artery Disease,7663.44,90,Paid
+PAT-3812,Jennifer Smith,14,Female,2025-01-29,2025-02-02,Pediatrics,Ear Infection,6386.92,100,Paid
+PAT-3813,Susan Thomas,41,Female,2024-02-22,2024-02-24,Emergency,Acute Appendicitis,3243.4,70,Partially Paid
+PAT-3814,William Anderson,28,Male,2024-08-19,2024-08-21,Emergency,Chest Pain,2328.97,60,Partially Paid
+PAT-3815,Carol Ramirez,76,Female,2024-04-06,2024-04-11,Cardiology,Hypertension,11411.19,70,Paid
+PAT-3816,Barbara Thomas,80,Female,2024-06-06,2024-06-14,Neurology,Multiple Sclerosis,18741.17,70,Paid
+PAT-3817,Ashley Thompson,53,Female,2024-09-06,2024-09-08,Emergency,Concussion,3602.24,70,Paid
+PAT-3818,Ashley Perez,50,Female,2024-11-13,2024-11-15,Orthopedics,Knee Replacement,3967.17,90,Paid
+PAT-3819,Jennifer Thompson,30,Female,2024-11-06,2024-11-10,Orthopedics,Carpal Tunnel,5430.38,80,Paid
+PAT-3820,Barbara Martinez,49,Female,2024-10-23,2024-10-29,General,Diabetes Management,3153.91,90,Paid
+PAT-3821,Jessica Perez,32,Female,2024-09-12,2024-09-18,General,UTI,4214.28,80,Paid
+PAT-3822,Richard Anderson,70,Male,2025-10-17,2025-10-20,Neurology,Stroke,5898.39,60,Pending
+PAT-3823,Susan Garcia,35,Female,2025-11-13,2025-11-27,Orthopedics,Spinal Disc Herniation,32045.67,80,Paid
+PAT-3824,Thomas Jones,77,Male,2024-04-01,2024-04-06,Neurology,Epilepsy,11916.1,90,Paid
+PAT-3825,Barbara Thompson,26,Female,2024-11-15,2024-11-22,General,Pneumonia,5499.8,80,Pending
+PAT-3826,Andrew Jackson,32,Male,2025-11-12,2025-11-17,Neurology,Multiple Sclerosis,8755.16,50,Paid
+PAT-3827,Matthew White,35,Male,2025-01-07,2025-01-12,General,Pneumonia,3252.83,70,Partially Paid
+PAT-3828,Michelle Martinez,52,Female,2025-10-08,2025-10-13,Orthopedics,ACL Tear,12778.56,80,Pending
+PAT-3829,Daniel White,73,Male,2025-11-12,2025-11-24,Orthopedics,Knee Replacement,27830.62,60,Pending
+PAT-3830,Joseph Perez,5,Male,2025-07-22,2025-07-26,Pediatrics,Bronchitis,4474.62,100,Pending
+PAT-3831,James Moore,13,Male,2025-01-01,2025-01-05,Pediatrics,Bronchitis,3553.09,60,Pending
+PAT-3832,Joshua Thompson,16,Male,2025-10-22,2025-10-24,Pediatrics,Asthma,2767.65,70,Paid
+PAT-3833,Kevin Lopez,14,Male,2024-06-09,2024-06-11,Pediatrics,RSV,2721.43,80,Paid
+PAT-3834,Jennifer Thomas,21,Female,2024-10-08,2024-10-11,Emergency,Fracture,2887.15,90,Partially Paid
+PAT-3835,Daniel Wilson,29,Male,2024-09-17,2024-09-20,Emergency,Abdominal Pain,7071.48,80,Paid
+PAT-3836,Kimberly Harris,72,Female,2024-01-09,2024-01-13,Cardiology,Coronary Artery Disease,8289.81,80,Paid
+PAT-3837,Elizabeth Jackson,20,Female,2025-07-06,2025-07-09,General,Pneumonia,1605.53,80,Paid
+PAT-3838,Betty Wilson,26,Female,2025-01-15,2025-01-18,General,Pneumonia,3803.99,50,Partially Paid
+PAT-3839,Karen Lopez,41,Female,2025-09-13,2025-09-19,Orthopedics,Spinal Disc Herniation,11654.43,0,Partially Paid
+PAT-3840,Christopher Brown,1,Male,2025-12-13,2025-12-15,Pediatrics,Allergic Reaction,3542.96,80,Partially Paid
+PAT-3841,Robert Moore,1,Male,2025-12-06,2025-12-11,Pediatrics,Tonsillitis,6340.11,70,Pending
+PAT-3842,Joshua Walker,31,Male,2024-04-04,2024-04-17,Orthopedics,Carpal Tunnel,33330.2,60,Paid
+PAT-3843,Barbara Martin,35,Female,2024-12-23,2024-12-26,Orthopedics,ACL Tear,4622.94,90,Paid
+PAT-3844,William Thomas,2,Male,2024-06-29,2024-07-04,Pediatrics,Ear Infection,6314.88,70,Paid
+PAT-3845,Joshua Davis,25,Male,2024-04-27,2024-05-11,Orthopedics,Carpal Tunnel,25971.47,80,Pending
+PAT-3846,Lisa Miller,44,Female,2024-02-24,2024-02-29,General,UTI,2926.43,90,Paid
+PAT-3847,Daniel Ramirez,39,Male,2025-10-01,2025-10-06,General,Anemia,6712.97,80,Pending
+PAT-3848,Karen Miller,72,Female,2024-09-04,2024-09-07,General,Diabetes Management,3235.11,80,Paid
+PAT-3849,Steven Williams,64,Male,2025-11-08,2025-11-09,Emergency,Severe Allergic Reaction,1023.76,100,Paid
+PAT-3850,Donna Lee,15,Female,2025-03-15,2025-03-20,Pediatrics,Asthma,3307.88,80,Partially Paid
+PAT-3851,Richard Thompson,1,Male,2024-03-13,2024-03-15,Pediatrics,Asthma,2503.98,50,Paid
+PAT-3852,Mark Young,36,Male,2024-09-14,2024-09-20,Orthopedics,Rotator Cuff Injury,9721.9,0,Pending
+PAT-3853,Steven Lewis,45,Male,2025-04-25,2025-05-02,General,Flu Complications,8925.93,70,Partially Paid
+PAT-3854,Kevin Anderson,31,Male,2024-04-25,2024-04-28,General,Dehydration,2423.96,90,Paid
+PAT-3855,Donna Martin,77,Female,2024-11-16,2024-11-22,General,Diabetes Management,4453.26,60,Pending
+PAT-3856,Kevin Lewis,78,Male,2024-09-12,2024-09-15,Neurology,Parkinson's Disease,4774.57,90,Paid
+PAT-3857,Betty Jackson,31,Female,2024-03-31,2024-04-03,Emergency,Severe Allergic Reaction,3412.0,100,Paid
+PAT-3858,Ashley Martin,51,Female,2024-10-11,2024-10-12,General,Dehydration,1093.33,80,Paid
+PAT-3859,Linda Lewis,3,Female,2025-11-03,2025-11-07,Pediatrics,RSV,5111.21,100,Paid
+PAT-3860,Kevin Walker,75,Male,2025-03-01,2025-03-07,General,Anemia,5375.85,70,Paid
+PAT-3861,Kevin Lee,55,Male,2024-07-21,2024-07-25,Orthopedics,Rotator Cuff Injury,9604.62,100,Pending
+PAT-3862,Betty Lopez,51,Female,2024-12-07,2024-12-14,General,UTI,8806.14,70,Paid
+PAT-3863,Kimberly Anderson,20,Female,2025-01-29,2025-01-31,Emergency,Acute Appendicitis,3945.82,80,Paid
+PAT-3864,Sandra Wilson,33,Female,2025-08-15,2025-08-16,Emergency,Fracture,2303.3,80,Paid
+PAT-3865,Daniel Thomas,9,Male,2025-06-06,2025-06-07,Pediatrics,Tonsillitis,1534.49,80,Paid
+PAT-3866,Paul Thomas,27,Male,2024-02-27,2024-02-28,General,Gastritis,1353.93,80,Paid
+PAT-3867,Dorothy Wilson,70,Female,2024-05-10,2024-05-16,Cardiology,Coronary Artery Disease,12898.02,50,Pending
+PAT-3868,Karen Jones,62,Female,2024-05-08,2024-05-12,General,Dehydration,4833.02,70,Partially Paid
+PAT-3869,Mark Martinez,42,Male,2024-11-23,2024-11-26,Orthopedics,Spinal Disc Herniation,3132.44,80,Paid
+PAT-3870,Brian Jackson,60,Male,2025-05-14,2025-05-21,Neurology,Parkinson's Disease,9720.49,90,Pending
+PAT-3871,Sandra Harris,16,Female,2025-01-25,2025-01-28,Pediatrics,RSV,3754.13,80,Paid
+PAT-3872,Thomas Smith,34,Male,2024-10-04,2024-10-08,General,Anemia,5762.53,90,Paid
+PAT-3873,James Rodriguez,79,Male,2025-11-07,2025-11-08,General,Pneumonia,808.56,70,Paid
+PAT-3874,Dorothy Johnson,64,Female,2025-11-12,2025-11-20,Cardiology,Arrhythmia,15637.55,90,Paid
+PAT-3875,Carol Ramirez,58,Female,2025-03-06,2025-03-08,Emergency,Severe Allergic Reaction,4011.18,90,Paid
+PAT-3876,Matthew Lee,53,Male,2024-04-30,2024-05-05,Cardiology,Hypertension,10693.69,100,Paid
+PAT-3877,Michelle Ramirez,39,Female,2024-12-07,2024-12-10,Orthopedics,Spinal Disc Herniation,3746.98,80,Paid
+PAT-3878,Richard Davis,31,Male,2024-08-11,2024-08-21,Neurology,Epilepsy,24544.65,80,Paid
+PAT-3879,Richard Harris,35,Male,2024-11-08,2024-11-09,Emergency,Fracture,1355.19,80,Paid
+PAT-3880,Jennifer Jones,10,Female,2024-07-25,2024-07-26,Pediatrics,Ear Infection,628.96,70,Paid
+PAT-3881,Emily Martinez,47,Female,2025-01-27,2025-01-29,General,Gastritis,2366.37,80,Paid
+PAT-3882,Kevin Thomas,22,Male,2024-09-30,2024-10-01,Emergency,Chest Pain,2471.97,50,Paid
+PAT-3883,Elizabeth Young,51,Female,2024-11-15,2024-11-20,Cardiology,Heart Failure,12189.63,90,Paid
+PAT-3884,Steven Jones,7,Male,2025-01-03,2025-01-06,Pediatrics,Tonsillitis,4133.36,60,Pending
+PAT-3885,Elizabeth Lee,29,Female,2025-01-15,2025-01-25,Orthopedics,Knee Replacement,10560.57,70,Paid
+PAT-3886,Donna Harris,55,Female,2024-07-21,2024-07-27,Cardiology,Hypertension,16685.38,90,Partially Paid
+PAT-3887,Betty Thompson,43,Female,2024-06-07,2024-06-12,Orthopedics,Carpal Tunnel,12448.18,90,Paid
+PAT-3888,Carol Garcia,58,Female,2024-09-06,2024-09-09,Neurology,Migraine,7181.24,80,Paid
+PAT-3889,Donna Martin,51,Female,2025-11-16,2025-11-26,Neurology,Neuropathy,12719.1,80,Pending
+PAT-3890,Sarah Walker,19,Female,2024-07-16,2024-07-21,General,Dehydration,3960.59,70,Partially Paid
+PAT-3891,Kevin Hernandez,73,Male,2025-05-24,2025-06-06,Orthopedics,Hip Fracture,32658.41,100,Paid
+PAT-3892,Matthew Miller,53,Male,2025-01-04,2025-01-07,Emergency,Fracture,4283.7,70,Partially Paid
+PAT-3893,David Clark,52,Male,2024-07-08,2024-07-10,Orthopedics,ACL Tear,5291.81,50,Paid
+PAT-3894,Elizabeth Miller,80,Female,2024-11-27,2024-12-03,General,Diabetes Management,3170.27,90,Paid
+PAT-3895,Brian Thomas,32,Male,2024-08-14,2024-08-21,General,Pneumonia,6978.9,90,Pending
+PAT-3896,Sandra Lewis,63,Female,2024-08-23,2024-08-29,General,Gastritis,4868.46,80,Paid
+PAT-3897,Mark Martinez,58,Male,2025-06-25,2025-07-09,Orthopedics,Rotator Cuff Injury,34197.05,80,Paid
+PAT-3898,Barbara Johnson,60,Female,2024-02-09,2024-02-10,General,Pneumonia,647.75,80,Paid
+PAT-3899,Jessica Williams,5,Female,2024-06-18,2024-06-23,Pediatrics,Ear Infection,3913.66,90,Pending
+PAT-3900,Christopher Perez,8,Male,2025-03-01,2025-03-06,Pediatrics,Tonsillitis,8364.62,100,Paid
+PAT-3901,Betty Lewis,8,Female,2025-11-30,2025-12-01,Pediatrics,Ear Infection,750.94,60,Pending
+PAT-3902,Nancy Clark,21,Female,2025-09-15,2025-09-16,Emergency,Fracture,1602.23,90,Paid
+PAT-3903,Richard Lee,26,Male,2025-12-28,2025-12-31,Orthopedics,ACL Tear,3905.3,80,Pending
+PAT-3904,Anthony Garcia,56,Male,2025-02-28,2025-03-04,Cardiology,Arrhythmia,10882.46,0,Partially Paid
+PAT-3905,Karen Brown,40,Female,2025-12-01,2025-12-05,General,Dehydration,3645.87,70,Pending
+PAT-3906,Emily Perez,40,Female,2025-04-07,2025-04-13,General,UTI,5871.8,90,Partially Paid
+PAT-3907,Barbara Smith,34,Female,2024-02-04,2024-02-07,General,Pneumonia,2527.51,60,Pending
+PAT-3908,Lisa Brown,40,Female,2024-08-14,2024-08-20,Cardiology,Atrial Fibrillation,11311.32,100,Pending
+PAT-3909,Brian White,35,Male,2024-06-04,2024-06-10,Orthopedics,Hip Fracture,14294.04,80,Paid
+PAT-3910,Nancy White,15,Female,2025-06-23,2025-06-25,Pediatrics,Tonsillitis,3325.48,60,Paid
+PAT-3911,Brian White,84,Male,2025-12-20,2025-12-21,General,Anemia,583.35,50,Partially Paid
+PAT-3912,Matthew Ramirez,54,Male,2024-01-31,2024-02-06,General,UTI,6644.98,90,Paid
+PAT-3913,Kevin Miller,75,Male,2025-07-02,2025-07-06,Orthopedics,Rotator Cuff Injury,6709.11,80,Partially Paid
+PAT-3914,Kenneth Rodriguez,32,Male,2024-04-03,2024-04-07,Neurology,Parkinson's Disease,7216.27,80,Pending
+PAT-3915,Matthew Young,45,Male,2025-03-21,2025-03-30,Neurology,Epilepsy,13906.96,80,Paid
+PAT-3916,Thomas Lopez,68,Male,2025-08-09,2025-08-19,Orthopedics,Carpal Tunnel,19370.95,70,Pending
+PAT-3917,Ashley Johnson,42,Female,2024-06-09,2024-06-16,General,Dehydration,4618.17,50,Partially Paid
+PAT-3918,Brian Clark,35,Male,2025-01-04,2025-01-07,General,Dehydration,4249.75,70,Partially Paid
+PAT-3919,Daniel Perez,60,Male,2024-01-02,2024-01-06,Cardiology,Atrial Fibrillation,6532.53,80,Partially Paid
+PAT-3920,Michelle Rodriguez,60,Female,2024-12-02,2024-12-07,Neurology,Migraine,5729.57,60,Paid
+PAT-3921,Nancy Lee,21,Female,2025-06-05,2025-06-07,General,Gastritis,2997.87,70,Paid
+PAT-3922,Thomas Williams,54,Male,2024-10-29,2024-11-04,General,Dehydration,7526.27,80,Paid
+PAT-3923,Emily Harris,29,Female,2024-06-17,2024-06-19,Emergency,Abdominal Pain,4378.02,80,Paid
+PAT-3924,Linda Smith,36,Female,2024-10-17,2024-10-25,Orthopedics,Spinal Disc Herniation,17866.58,90,Partially Paid
+PAT-3925,Michael White,79,Male,2025-03-18,2025-03-22,Cardiology,Hypertension,5517.67,90,Paid
+PAT-3926,Lisa Williams,48,Female,2024-10-05,2024-10-12,Neurology,Stroke,14595.77,80,Paid
+PAT-3927,Daniel Ramirez,42,Male,2024-11-30,2024-12-01,General,Anemia,543.06,50,Paid
+PAT-3928,Linda Hernandez,25,Female,2024-01-25,2024-01-30,Orthopedics,Knee Replacement,5082.06,0,Pending
+PAT-3929,Joshua Jackson,38,Male,2025-07-08,2025-07-10,Emergency,Fracture,2871.13,90,Paid
+PAT-3930,Sandra Anderson,67,Female,2024-12-17,2024-12-19,Orthopedics,Carpal Tunnel,4425.15,70,Paid
+PAT-3931,Jennifer Walker,28,Female,2025-01-04,2025-01-05,Emergency,Severe Allergic Reaction,1958.56,80,Paid
+PAT-3932,Mark Johnson,68,Male,2025-04-20,2025-04-22,General,Anemia,2268.81,80,Paid
+PAT-3933,James Jones,41,Male,2025-08-26,2025-09-04,Neurology,Neuropathy,22621.47,70,Partially Paid
+PAT-3934,Mary Young,46,Female,2025-11-17,2025-11-20,Orthopedics,ACL Tear,3972.12,50,Pending
+PAT-3935,Susan Brown,16,Female,2024-05-02,2024-05-03,Pediatrics,RSV,921.67,100,Paid
+PAT-3936,Elizabeth Rodriguez,48,Female,2024-07-30,2024-08-01,Emergency,Burns,3783.41,70,Pending
+PAT-3937,David Anderson,31,Male,2025-01-24,2025-01-27,Emergency,Fracture,3007.82,60,Pending
+PAT-3938,Michael Jones,12,Male,2025-03-17,2025-03-22,Pediatrics,Bronchitis,6547.21,80,Partially Paid
+PAT-3939,Richard Wilson,79,Male,2025-08-22,2025-08-28,Neurology,Stroke,6760.22,90,Paid
+PAT-3940,Robert Perez,48,Male,2025-04-21,2025-04-24,General,Gastritis,3865.55,80,Paid
+PAT-3941,Steven Young,43,Male,2024-04-01,2024-04-07,General,Dehydration,5921.38,70,Paid
+PAT-3942,Christopher Lewis,34,Male,2024-11-11,2024-11-20,Orthopedics,Carpal Tunnel,11299.89,100,Pending
+PAT-3943,Barbara Jackson,15,Female,2024-04-10,2024-04-14,Pediatrics,Tonsillitis,4061.69,60,Paid
+PAT-3944,Ashley White,9,Female,2024-08-15,2024-08-16,Pediatrics,Tonsillitis,1243.02,80,Paid
+PAT-3945,Andrew Ramirez,70,Male,2024-10-27,2024-11-03,Orthopedics,Carpal Tunnel,18613.24,80,Paid
+PAT-3946,Betty Robinson,31,Female,2024-08-22,2024-08-25,Neurology,Neuropathy,4541.45,60,Paid
+PAT-3947,Kevin Harris,65,Male,2025-11-06,2025-11-11,Cardiology,Angina,14897.36,100,Paid
+PAT-3948,Kenneth Lewis,60,Male,2025-04-14,2025-04-19,Orthopedics,Carpal Tunnel,5557.59,70,Partially Paid
+PAT-3949,Carol Jones,59,Female,2024-02-09,2024-02-15,Cardiology,Coronary Artery Disease,14526.47,90,Paid
+PAT-3950,Lisa Lopez,33,Female,2025-10-31,2025-11-07,General,UTI,6592.81,80,Pending
+PAT-3951,Elizabeth Johnson,45,Female,2024-11-02,2024-11-06,General,Pneumonia,5811.71,80,Paid
+PAT-3952,Barbara Harris,72,Female,2024-07-13,2024-07-20,Orthopedics,Spinal Disc Herniation,15420.8,60,Partially Paid
+PAT-3953,Nancy Jones,31,Female,2024-02-05,2024-02-16,Orthopedics,Knee Replacement,28706.36,80,Paid
+PAT-3954,Sandra Thompson,78,Female,2024-06-19,2024-06-25,Cardiology,Atrial Fibrillation,10923.17,90,Pending
+PAT-3955,Jennifer Clark,52,Female,2025-02-08,2025-02-17,Neurology,Parkinson's Disease,20558.88,90,Paid
+PAT-3956,Kenneth Wilson,41,Male,2025-11-27,2025-11-28,General,Diabetes Management,759.83,70,Paid
+PAT-3957,Sandra Anderson,32,Female,2025-02-09,2025-02-11,Emergency,Burns,2012.29,70,Paid
+PAT-3958,Paul Walker,39,Male,2024-06-07,2024-06-13,Orthopedics,Rotator Cuff Injury,16229.56,90,Paid
+PAT-3959,Joseph Jackson,52,Male,2024-01-13,2024-01-19,General,Diabetes Management,8478.03,70,Partially Paid
+PAT-3960,Michelle Robinson,58,Female,2024-06-27,2024-07-07,Neurology,Parkinson's Disease,23264.42,60,Paid
+PAT-3961,Betty Garcia,82,Female,2024-12-28,2025-01-01,General,Dehydration,4983.18,80,Partially Paid
+PAT-3962,Jennifer Martin,47,Female,2025-03-19,2025-03-25,General,Dehydration,7613.41,90,Paid
+PAT-3963,William Jones,37,Male,2024-04-05,2024-04-06,Emergency,Acute Appendicitis,2431.81,80,Paid
+PAT-3964,Mary Jackson,61,Female,2024-07-05,2024-07-07,General,UTI,1073.89,70,Pending
+PAT-3965,Emily Ramirez,70,Female,2025-03-22,2025-04-01,Cardiology,Heart Failure,19302.61,100,Partially Paid
+PAT-3966,Kimberly Anderson,68,Female,2025-05-14,2025-05-20,General,Pneumonia,4686.18,100,Paid
+PAT-3967,Karen Martin,7,Female,2025-09-23,2025-09-26,Pediatrics,Bronchitis,3301.8,70,Partially Paid
+PAT-3968,Jessica Hernandez,57,Female,2024-10-31,2024-11-03,Orthopedics,Rotator Cuff Injury,5980.45,100,Paid
+PAT-3969,Donna Thomas,34,Female,2025-10-02,2025-10-06,General,Dehydration,5054.45,60,Pending
+PAT-3970,Thomas Brown,52,Male,2025-08-07,2025-08-09,Emergency,Fracture,3102.51,90,Paid
+PAT-3971,Joshua Taylor,66,Male,2025-01-12,2025-01-19,Orthopedics,Carpal Tunnel,7068.71,70,Partially Paid
+PAT-3972,James Garcia,59,Male,2024-03-25,2024-03-29,Orthopedics,Knee Replacement,7018.51,80,Paid
+PAT-3973,Donna Young,17,Female,2024-11-29,2024-11-30,Pediatrics,Tonsillitis,895.4,70,Pending
+PAT-3974,Linda Lewis,25,Female,2025-07-15,2025-07-20,General,Anemia,5857.12,70,Paid
+PAT-3975,Emily Walker,22,Female,2025-09-23,2025-09-26,Emergency,Burns,5212.57,90,Paid
+PAT-3976,Kenneth Garcia,73,Male,2024-12-28,2025-01-04,Cardiology,Coronary Artery Disease,18256.04,70,Pending
+PAT-3977,Carol Thomas,40,Female,2025-04-04,2025-04-14,Cardiology,Atrial Fibrillation,22950.92,80,Paid
+PAT-3978,Andrew Young,65,Male,2024-12-23,2024-12-30,General,Pneumonia,9174.23,60,Partially Paid
+PAT-3979,Donna Williams,18,Female,2025-08-31,2025-09-03,General,UTI,2502.76,80,Paid
+PAT-3980,Daniel Jackson,43,Male,2025-09-29,2025-10-02,Emergency,Fracture,6927.74,90,Paid
+PAT-3981,Sarah Robinson,54,Female,2024-09-04,2024-09-09,General,Anemia,4663.19,80,Paid
+PAT-3982,Susan Lewis,55,Female,2024-10-31,2024-11-08,Orthopedics,Rotator Cuff Injury,20435.29,70,Partially Paid
+PAT-3983,Mary Martin,81,Female,2025-12-18,2025-12-20,General,Anemia,1278.31,60,Pending
+PAT-3984,Richard Perez,44,Male,2025-01-18,2025-01-21,Emergency,Acute Appendicitis,6875.52,70,Paid
+PAT-3985,Elizabeth Lopez,57,Female,2024-08-11,2024-08-17,Neurology,Parkinson's Disease,14894.02,60,Paid
+PAT-3986,Sandra Lewis,55,Female,2025-06-09,2025-06-17,Orthopedics,Spinal Disc Herniation,16185.6,100,Paid
+PAT-3987,Sarah Garcia,64,Female,2024-09-05,2024-09-09,General,Diabetes Management,4017.98,100,Paid
+PAT-3988,Dorothy Thompson,1,Female,2025-08-24,2025-08-26,Pediatrics,Ear Infection,1260.77,80,Pending
+PAT-3989,Barbara Rodriguez,14,Female,2025-09-23,2025-09-25,Pediatrics,Bronchitis,2626.23,60,Pending
+PAT-3990,Steven White,14,Male,2024-07-11,2024-07-12,Pediatrics,Asthma,713.28,0,Partially Paid
+PAT-3991,Dorothy Taylor,64,Female,2024-10-27,2024-10-31,General,Dehydration,5579.15,60,Pending
+PAT-3992,Barbara Lee,2,Female,2025-12-01,2025-12-04,Pediatrics,Allergic Reaction,3033.99,80,Paid
+PAT-3993,Thomas Miller,43,Male,2025-11-20,2025-11-22,Emergency,Abdominal Pain,4133.94,50,Paid
+PAT-3994,Joseph Hernandez,10,Male,2025-07-03,2025-07-07,Pediatrics,Bronchitis,4374.76,90,Partially Paid
+PAT-3995,Kimberly Lopez,51,Female,2024-10-03,2024-10-06,Cardiology,Atrial Fibrillation,7839.78,90,Pending
+PAT-3996,Joshua Miller,58,Male,2025-06-09,2025-06-13,Cardiology,Heart Failure,10021.0,90,Paid
+PAT-3997,Daniel White,75,Male,2025-10-09,2025-10-14,General,UTI,6377.65,60,Pending
+PAT-3998,Ashley Brown,32,Female,2025-04-22,2025-04-23,Emergency,Acute Appendicitis,1020.62,60,Paid
+PAT-3999,Robert Ramirez,56,Male,2025-08-08,2025-08-09,Emergency,Burns,2315.06,70,Paid
+PAT-4000,Jennifer Ramirez,18,Female,2024-02-27,2024-03-02,General,Gastritis,2235.16,100,Partially Paid
