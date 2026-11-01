@@ -84,17 +84,17 @@ Management lacks a consolidated view of operational and financial performance. T
 
 The interactive Excel dashboard contains:
 
-- 🔢 **Six KPI cards:** Total Visits, Total Bill, Paid Amount, Outstanding Amount, Avg Stay, Avg Insurance
+- 🔢 **Five KPI cards:** Total Visits, Total Bill, Avg Stay, Paid Amount, Avg Insurance
+- 💰 **Q6 Financial Summary box:** Total Billed, Paid and Outstanding amounts
 - 📋 **Department performance table:** Patients, Total Bill, Avg Stay, Avg Insurance %
-- 📊 **8 charts** covering all key questions:
-  - Patients by Department
-  - Bill by Department
-  - Avg Stay by Department
+- 📊 **9 charts** covering all key questions:
+  - Admissions Trend (line)
+  - Patients by Department (bar)
+  - Patients by Age Group (column)
   - Payment Status (pie)
-  - Age Group
-  - Admissions Trend
-  - Billing Trend
-  - Insurance by Department
+  - Patients by Gender (column)
+  - *Deeper Dive row:* Bill by Department, Avg Stay by Department, Insurance by Department, Billing Trend
+- 🎯 **Q10 Attention Areas box:** five management takeaways
 - 🎨 **Colour theme:** Green, Yellow, Red, and Blue for visual distinction and a professional look
 
 ---
@@ -158,11 +158,15 @@ By implementing the recommendations above, particularly around collections, capa
 
 ```
 📦 Eunice_Marfo_Fadaqa_1_project
- ┣ 📄 README.md                                          # Project documentation
- ┣ 📊 SECURE_LIFE_GENERAL_HOSPITAL_Dashboard (2).xlsx    # Interactive Excel dashboard & data
- ┣ 🖼️ Introductory_Image.png                             # Project banner
- ┣ 🖼️ Screenshot_of_Dashboard.png                        # Dashboard preview
- ┗ 📝 GitHub_ReadMe_File.docx                            # Original project write-up
+ ┣ 📄 README.md                                      # Project documentation (this file)
+ ┣ 📊 SECURE_LIFE_GENERAL_HOSPITAL_Dashboard.xlsx    # Finished Excel dashboard (data + summary + dashboard)
+ ┣ 📘 Excel_Dashboard_Build_Guide.pdf                # Beginner guide: rebuild the dashboard step by step
+ ┣ 📝 GitHub_ReadMe_File.docx                        # Full project write-up
+ ┣ 🖼️ Introductory_Image.png                         # Project banner
+ ┣ 🖼️ Screenshot_of_Dashboard.png                    # Dashboard preview
+ ┗ 📁 Practice_Kit
+    ┣ 📊 Practice_Workbook_START_HERE.xlsx           # Raw data + empty sheets to practise on
+    ┗ 📄 hospital_patient_data_raw.csv               # The same 1,000 records as a CSV file
 ```
 
 ---
@@ -170,10 +174,16 @@ By implementing the recommendations above, particularly around collections, capa
 ## 9. How to Use
 
 1. Download or clone this repository.
-2. Open **`SECURE_LIFE_GENERAL_HOSPITAL_Dashboard (2).xlsx`** in Microsoft Excel.
+2. Open **`SECURE_LIFE_GENERAL_HOSPITAL_Dashboard.xlsx`** in Microsoft Excel.
 3. Explore the KPI cards, department table, and charts to review hospital performance.
 
 > 💡 **Requirements:** Microsoft Excel (2016 or later recommended).
+
+### 🛠️ Want to rebuild it yourself?
+
+1. Open **[`Excel_Dashboard_Build_Guide.pdf`](Excel_Dashboard_Build_Guide.pdf)**, a beginner-friendly guide with 32 numbered steps that builds the whole dashboard, all 9 charts included, with every formula, colour code, chart setting, checkpoint and an answer key.
+2. Open **`Practice_Kit/Practice_Workbook_START_HERE.xlsx`**. It already contains the 1,000 raw records plus empty *Dashboard* and *Summary Data* sheets.
+3. Follow the guide from Step 3 onwards, then compare your result with the finished workbook.
 
 ---
 
